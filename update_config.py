@@ -83,8 +83,8 @@ except IOError as e:
     exit(1)
 
 try:
-    subprocess.run(["git", "config", "user.name", "jonathanferrari"], check=True)
-    subprocess.run(["git", "config", "user.email", "jonathanferrari@berkeley.edu"], check=True)
+    subprocess.run(["git", "config", "user.name", "jedwin3210"], check=True)
+    subprocess.run(["git", "config", "user.email", "jedwin321@berkeley.edu"], check=True)
     subprocess.run(["git", "add", "_config.yml"], check=True)
     subprocess.run(["git", "commit", "-m", "Update _config.yml with new directories"], check=True)
     push_url = f"https://{token}@github.com/data-8/fa24.git"
