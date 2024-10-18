@@ -1,0 +1,1037 @@
+Year,Minority,Major,Programming,Programming.Affinity,Statistics,Letter.Grade,Requirement,Birthday,Extrovert,People.Texted,Hours.of.Sleep,Handedness,Sleep.Position,Pets,Piercings,Languages
+First Year,No,"Business, Cognitive Science",False,2,True,Yes,Yes,9/22,5,3,8,Right-handed,On your back,False,0,3
+Second Year,No,"Applied Math, Physics",False,3,False,Yes,No,2/11,8,20,7,Right-handed,On your right side,True,2,2
+First Year,Yes,Applied Math,False,1,False,Maybe,Yes,5/24,5,4,8,Right-handed,On your left side,True,5,3
+Second Year,No,Chemical Engineering,True,4,True,Yes,Yes,10/12,8,7,6,Right-handed,On your stomach,True,0,1
+First Year,No,Data Science,True,3,False,Yes,Yes,3/31,5,4,8,Right-handed,On your right side,False,0,2
+Third Year,I don't know,Molecular and Cell Biology,False,2,True,Yes,Yes,7/17,1,2,6,Right-handed,On your back,False,2,2
+First Year,No,Statistics,True,2,True,Yes,Yes,6/6,2,2,8,Left-handed,On your right side,False,4,1
+Third Year,Yes,Molecular and Cell Biology,False,2,True,Yes,Yes,4/18,7,5,8,Right-handed,On your right side,True,2,6
+First Year,No,Data Science,True,4,True,Yes,Yes,1/1,6,3,7.5,Right-handed,On your right side,True,0,4
+First Year,Yes,Computer Science,True,4,False,Yes,Yes,10/17,6,10,7,Right-handed,On your right side,True,0,2
+Second Year,Yes,Molecular and Cell Biology,False,4,True,Yes,I don't know,8/19,3,6,6,Right-handed,On your left side,False,0,3
+Third Year,Yes,"Cognitive Science, Data Science",True,4,True,Yes,Yes,6/3,8,5,7,Right-handed,On your stomach,False,2,5
+Second Year,No,"Applied Math, Computer Science",True,4,True,Yes,Yes,3/14,3,3,7,Right-handed,On your back,False,0,4
+Second Year,No,Molecular and Cell Biology,False,2,False,Yes,No,5/23,7,15,8,Right-handed,On your right side,True,0,5
+Second Year,Yes,"Computer Science, Data Science",True,5,True,Yes,Yes,4/27,8,8,8,Right-handed,On your back,True,0,4
+First Year,No,Business,False,3,True,Yes,Yes,4/21,4,4,7,Right-handed,On your left side,True,4,2
+First Year,Yes,Data Science,True,4,True,Yes,Yes,12/24,4,10,7,Right-handed,On your left side,True,0,4
+Second Year,No,"Applied Math, Undecided",True,3,True,Yes,Yes,10/21,5,5,8,Right-handed,On your right side,True,0,2
+First Year,Yes,"Cognitive Science, Economics",False,2,False,Yes,Yes,3/26,2,5,8,Right-handed,On your left side,False,3,3
+Fourth Year,No,EECS,True,5,True,Yes,Yes,11/18,3,7,4,Right-handed,On your right side,False,0,1
+First Year,No,"Cognitive Science, Psychology",True,3,False,Yes,Yes,6/28,8,10,7,Right-handed,On your left side,False,2,3
+First Year,No,Business,False,1,True,Yes,Yes,3/21,8,15,8,Right-handed,On your right side,True,0,2
+First Year,No,Data Science,True,3,True,Yes,Yes,6/15,3,6,7,Right-handed,On your back,False,0,6
+First Year,No,Data Science,True,4,False,Yes,Yes,10/21,5,4,6,Right-handed,On your left side,False,2,2
+First Year,No,Civil Engineering,False,4,True,Yes,Yes,8/20,6,12,8,Right-handed,On your left side,True,0,2
+Second Year,No,"Data Science, Art Practice",True,3,True,Yes,Yes,9/7,3,3,8,Right-handed,On your back,False,0,3
+Second Year,No,Material Science and Engineering,True,3,True,Yes,No,2/8,5,8,6,Right-handed,On your left side,True,10,3
+First Year,No,Data Science,True,2,True,Yes,Yes,10/17,5,5,7,Right-handed,On your right side,True,0,5
+First Year,No,"Data Science, Economics",True,3,True,Yes,Yes,6/29,7,11,7.5,Right-handed,On your right side,False,0,3
+First Year,Yes,Civil Engineering,True,3,False,Yes,Yes,12/8,8,12,7,Right-handed,On your left side,False,0,2
+First Year,No,Cognitive Science,True,3,False,Yes,Yes,2/4,8,12,7,Right-handed,On your back,False,1,2
+Third Year,No,Data Science,False,1,True,Yes,Yes,7/12,3,3,8,Right-handed,On your right side,False,0,3
+Second Year,No,Civil Engineering,False,1,False,Yes,Yes,1/7,9,10,7,Right-handed,On your stomach,True,5,2
+First Year,No,Data Science,True,4,False,Yes,Yes,9/28,3,11,6,Right-handed,On your right side,False,0,4
+First Year,Yes,"Applied Math, Computer Science",True,5,True,Yes,Yes,11/9,6,11,8,Right-handed,On your right side,False,2,3
+First Year,No,Economics,True,1,True,Yes,Yes,4/23,6,6,8,Right-handed,On your back,True,0,1
+First Year,No,Data Science,True,4,True,Yes,Yes,4/29,5,10,6,Right-handed,On your stomach,False,0,1
+First Year,I don't know,Data Science,True,3,True,Yes,Yes,11/6,3,5,7,Right-handed,On your left side,False,0,3
+First Year,No,Undecided,False,2,False,Yes,Yes,11/10,8,6,6,Right-handed,On your back,True,0,3
+Third Year,Yes,Civil engineering,False,4,False,Yes,Yes,11/8,9,4,7,Left-handed,On your right side,True,4,6
+First Year,I don't know,Business,True,1,True,Yes,I don't know,5/1,5,3,7,Right-handed,On your right side,True,1,3
+Third Year,I don't know,Microbial biology,True,1,True,Yes,Yes,7/13,5,5,7,Right-handed,On your right side,True,5,1
+First Year,No,Data Science,True,5,True,Yes,Yes,9/13,5,5,5,Right-handed,On your right side,False,0,2
+First Year,No,Data Science,True,4,True,Yes,Yes,4/14,8,10,8.5,Right-handed,On your back,False,0,3
+First Year,I don't know,Statistics,True,2,True,Yes,Yes,5/30,3,4,6,Right-handed,On your stomach,True,2,3
+Second Year,No,Undecided,True,2,False,Yes,Yes,12/17,4,3,8,Right-handed,On your back,True,0,2
+Second Year,I don't know,"Psychology, Film",False,1,True,Yes,Yes,1/10,5,7,5,Right-handed,On your back,False,0,4
+First Year,No,Data Science,True,3,True,Yes,Yes,3/11,7,12,6,Right-handed,On your back,False,0,3
+Third Year,Yes,Data Science,True,3,False,Yes,Yes,1/17,5,3,7,Left-handed,On your stomach,True,0,3
+First Year,Yes,Data Science,True,4,True,Yes,Yes,6/12,3,3,6,Right-handed,On your right side,True,0,2
+First Year,No,Business,True,4,True,Yes,Yes,4/8,7,7,8,Right-handed,On your left side,True,0,2
+Third Year,Yes,Statistics,False,1,True,Yes,Yes,6/30,8,5,7,Right-handed,On your right side,True,0,3
+First Year,I don't know,Civil Engineering,False,1,False,Yes,Yes,6/12,4,6,7.5,Right-handed,On your left side,True,0,3
+First Year,Yes,Civil Engineering ,False,1,False,Yes,Yes,8/3,6,5,8,Right-handed,On your right side,True,6,2
+First Year,No,Data Science,True,4,True,Yes,Yes,9/15,7,6,7,Right-handed,On your back,True,1,2
+First Year,I don't know,Data Science,True,3,True,Yes,Yes,11/24,2,5,6,Right-handed,On your right side,True,2,5
+Second Year,Yes,Cognitive Science,False,1,True,Yes,Yes,3/31,4,5,8,Right-handed,On your left side,True,5,2
+Third Year,No,"Applied Math, Statistics",True,2,True,Yes,Yes,2/6,6,15,7,Right-handed,On your back,True,0,2
+First Year,No,"Applied Math, Computer Science, Public Health",True,4,True,Yes,Yes,1/28,4,10,7,Right-handed,On your back,True,4,5
+Third Year,No,"Data Science, Molecular and Cell Biology",True,5,True,Yes,Yes,1/12,3,6,8,Right-handed,On your right side,False,0,6
+First Year,I don't know,"Business, Data Science",True,4,True,Yes,Yes,10/2,6,10,7,Right-handed,On your stomach,False,0,3
+First Year,Yes,Cognitive Science,True,2,False,Yes,Yes,4/10,6,10,7,Right-handed,On your back,False,4,5
+Fourth Year,No,Political Economy,False,1,True,Maybe,Yes,8/20,5,6,7.5,Right-handed,On your back,True,2,8
+Fourth Year,No,EECS,True,5,True,Maybe,No,10/23,4,4,10,Right-handed,On your right side,False,0,3
+Third Year,I don't know,Computer Science,True,4,True,Yes,Yes,7/16,8,3,6,Right-handed,On your right side,True,0,2
+Second Year,Yes,Analytics (previously ORMS),True,3,False,Yes,Yes,2/7,6,6,7,Right-handed,On your right side,True,2,3
+Second Year,Yes,Cognitive Science,True,5,False,No,Yes,12/20,4,2,5,Right-handed,On your back,True,0,2
+First Year,Yes,Data Science,True,5,True,Yes,Yes,12/6,7,6,7.5,Right-handed,On your left side,False,0,5
+Third Year,Yes,Data Science,True,5,True,Yes,Yes,1/11,8,5,7,Right-handed,On your stomach,False,0,2
+Third Year,Yes,Computer Science,True,3,True,Yes,No,6/8,5,7,7,Right-handed,On your back,True,8,3
+Third Year,I don't know,Music,False,1,False,Maybe,I don't know,10/2,2,5,7,Right-handed,On your right side,False,4,2
+Second Year,No,Cognitive Science,False,1,False,Yes,Yes,10/1,3,3,8,Right-handed,On your back,False,0,4
+Third Year,Yes,Statistics,False,3,True,Yes,Yes,5/30,4,3,7,Right-handed,On your stomach,True,0,4
+Second Year,No,"Data Science, Molecular and Cell Biology",False,3,False,Yes,Yes,12/6,8,8,7,Right-handed,On your right side,True,0,3
+First Year,Yes,Civil Engineering,False,4,False,Yes,Yes,8/9,7,10,8,Right-handed,On your back,True,0,3
+Third Year,Yes,Applied Math,False,2,True,Yes,Yes,3/15,2,3,8,Right-handed,On your left side,True,1,2
+Third Year,No,Applied Math,True,5,True,Yes,Yes,8/26,3,20,6,Right-handed,On your back,False,0,4
+Fourth Year,I don't know,Statistics,True,3,True,Maybe,No,8/5,4,4,6.5,Right-handed,On your right side,False,3,3
+First Year,No,Civil Engineering,True,3,False,Yes,Yes,1/14,5,5,9,Right-handed,On your stomach,True,0,3
+Third Year,No,Data Science,True,4,True,Yes,Yes,9/9,4,3,8,Right-handed,On your right side,False,2,4
+Graduate Student,No,journalism,False,3,False,Maybe,No,12/16,3,6,7,Right-handed,On your right side,True,2,2
+First Year,No,Urban Studies,False,1,True,Yes,Yes,7/26,3,3,8,Right-handed,On your back,False,0,3
+First Year,No,"Data Science, Interdisciplinary Studies",True,2,True,Yes,Yes,7/14,4,4,8,Right-handed,On your back,False,0,3
+First Year,No,"Computer Science, Data Science",False,3,True,Yes,Yes,4/19,4,10,9,Right-handed,On your right side,False,2,3
+Graduate Student,Yes,Journalism,False,3,True,Yes,Yes,6/10,3,4,7,Right-handed,On your left side,True,0,2
+Third Year,Yes,Environmental Economics and Policy,False,3,False,Yes,Yes,7/25,5,5,7,Right-handed,On your back,True,2,5
+Second Year,No,Applied Math,True,2,True,Yes,Yes,7/31,8,5,7,Left-handed,On your right side,True,2,3
+First Year,No,Data Science,True,5,True,Yes,Yes,9/30,3,5,5,Left-handed,On your left side,False,0,4
+First Year,No,Data Science,True,4,True,Yes,Yes,11/15,5,15,5,Right-handed,On your right side,False,0,2
+First Year,No,Computer Science,True,3,True,Yes,Yes,10/14,6,20,7,Right-handed,On your back,False,0,3
+Fourth Year,Yes,EECS,True,5,True,Yes,No,6/9,4,2,7,Right-handed,On your right side,False,0,3
+First Year,No,Statistics,True,3,True,Yes,Yes,7/9,5,2,6,Right-handed,On your left side,True,2,3
+Second Year,Yes,Undecided,False,1,True,Yes,Yes,7/1,6,5,7,Right-handed,On your left side,False,2,3
+Second Year,No,"Applied Math, Computer Science",True,5,True,Yes,Yes,10/15,8,4,7,Right-handed,On your left side,False,0,3
+First Year,Yes,Civil Engineering,False,1,False,Yes,Yes,10/17,5,3,6,Right-handed,On your stomach,False,2,2
+First Year,No,Data Science,False,3,True,Yes,Yes,4/5,3,10,6,Right-handed,On your stomach,False,0,1
+First Year,No,Statistics,True,2,True,Yes,Yes,11/15,3,5,6,Right-handed,On your left side,False,2,3
+First Year,I don't know,Industrial Engineering and Operations Research,True,4,True,Yes,Yes,6/28,7,8,7,Right-handed,On your left side,False,0,3
+First Year,Yes,"Cognitive Science, Data Science, Undecided",False,1,False,Yes,Yes,10/19,3,4,6,Right-handed,On your left side,True,2,4
+First Year,No,Business,False,1,True,Yes,Yes,4/13,8,5,7,Right-handed,On your back,True,2,2
+Third Year,No,Data Science,True,3,True,Yes,Yes,5/28,5,5,8,Right-handed,On your back,False,0,4
+First Year,No,CivE,True,2,True,Yes,Yes,6/26,6,6,10,Right-handed,On your left side,True,0,2
+Third Year,Yes,Applied Math,False,3,False,Yes,Yes,10/5,8,4,9,Right-handed,On your left side,True,2,8
+First Year,No,Data Science,True,3,False,Maybe,Yes,6/8,7,15,7,Right-handed,On your back,False,0,2
+Third Year,No,Statistics,True,3,True,Yes,Yes,7/17,1,1,6,Right-handed,On your back,False,2,3
+Third Year,No,Mathematics,True,5,True,Yes,No,11/18,6,7,7,Right-handed,On your left side,True,0,2
+First Year,Yes,Mechanical Engineering,True,3,False,Yes,Yes,3/6,4,10,7,Right-handed,On your left side,True,0,2
+First Year,Yes,Data Science,True,3,False,Yes,Yes,6/4,6,7,5,Right-handed,On your right side,True,0,2
+First Year,Yes,Data Science,True,2,False,Yes,Yes,12/16,6,3,7.5,Right-handed,On your right side,False,0,3
+Third Year,I don't know,Statistics,True,5,True,Yes,Yes,10/7,6,4,7,Right-handed,On your left side,False,0,3
+First Year,No,"Data Science, Economics",True,4,True,Yes,Yes,12/16,9,17,7,Right-handed,On your right side,False,2,4
+First Year,No,"Applied Math, Statistics",False,3,True,Yes,Yes,8/13,6,10,7,Right-handed,On your back,False,0,2
+First Year,I don't know,Neuroscience,True,3,True,Yes,Yes,5/21,2,3,7,Right-handed,On your back,False,0,2
+First Year,No,Cognitive Science,True,3,False,Yes,Yes,2/26,5,12,6,Right-handed,On your left side,False,5,3
+First Year,No,Statistics,True,2,True,Yes,Yes,7/24,4,3,8,Right-handed,On your right side,True,0,4
+First Year,I don't know,Civil Engineering,False,1,False,Yes,Yes,11/1,3,5,7.5,Left-handed,On your left side,False,5,2
+Third Year,No,Molecular and Cell Biology,False,2,True,Yes,Yes,2/12,4,4,8,Right-handed,On your back,False,0,3
+First Year,Yes,Civil Engineering,True,3,False,Yes,Yes,6/1,9,10,8,Right-handed,On your back,True,0,2
+First Year,Yes,Data Science,True,2,False,Yes,Yes,5/2,7,3,7,Right-handed,On your right side,True,2,2
+First Year,No,Data Science,True,3,True,Yes,Yes,4/8,6,10,8,Right-handed,On your back,False,0,3
+First Year,No,Physics,False,1,False,Yes,No,8/8,7,7,6,Right-handed,On your right side,False,0,4
+Third Year,I don't know,"Cognitive Science, Computer Science, Data Science, Statistics",True,4,True,Yes,Yes,4/12,2,3,7.5,Right-handed,On your right side,False,0,5
+First Year,No,"Applied Math, Computer Science, Data Science",True,4,False,Yes,Yes,7/29,4,5,8,Right-handed,On your back,True,0,2
+First Year,Yes,Computer Science,True,3,False,Yes,No,4/20,7,2,8,Right-handed,On your left side,True,2,3
+Third Year,No,Statistics,True,3,False,Yes,Yes,6/7,3,1,7,Right-handed,On your right side,True,2,3
+First Year,Yes,Data Science,True,2,True,Yes,Yes,5/21,8,9,7,Right-handed,On your right side,True,2,4
+First Year,Yes,"Business, Economics, Molecular and Cell Biology, Public Health, Undecided",True,2,True,Yes,Yes,11/25,9,10,7,Right-handed,On your back,False,0,2
+First Year,No,Industrial engineering and operations research,False,4,False,Yes,Yes,5/27,4,8,7.5,Left-handed,On your stomach,True,0,2
+First Year,No,Data Science,True,3,True,Yes,Yes,9/7,5,5,7,Right-handed,On your right side,True,0,2
+Third Year,I don't know,Cognitive Science,True,3,False,Yes,Yes,12/3,2,4,8,Right-handed,On your left side,True,4,3
+First Year,No,Statistics,True,3,True,Yes,Yes,7/21,8,10,7,Right-handed,On your stomach,True,0,4
+Second Year,Yes,"Cognitive Science, Data Science",False,1,True,Yes,Yes,11/23,5,17,8,Right-handed,On your stomach,True,5,2
+First Year,No,Applied Math,True,5,True,Yes,Yes,11/11,4,7,7.5,Right-handed,On your back,True,2,2
+Second Year,No,"Applied Math, Data Science",True,3,True,Yes,Yes,7/20,5,5,7,Right-handed,On your left side,False,0,2
+First Year,No,Data Science,True,4,True,Yes,Yes,11/1,3,8,8,Right-handed,On your right side,True,2,2
+Third Year,No,Data Science,True,4,True,Yes,Yes,8/28,5,4,8,Right-handed,On your back,True,0,2
+Third Year,No,civil engineering,True,3,True,Yes,Yes,10/3,3,4,8,Right-handed,On your left side,True,2,4
+First Year,No,Data Science,True,4,False,Yes,Yes,1/5,9,5,9,Right-handed,On your back,True,0,10
+First Year,No,Data Science,True,4,True,Yes,Yes,12/13,8,2,7,Right-handed,On your left side,True,0,2
+First Year,No,Applied Math,True,5,True,Yes,No,4/8,7,15,7,Right-handed,On your back,False,0,3
+Third Year,Yes,Computer Science,True,3,False,Yes,I don't know,8/4,5,2,8,Right-handed,On your back,False,9,2
+First Year,No,Data Science,True,4,True,Yes,Yes,3/1,8,15,7,Right-handed,On your stomach,False,2,4
+First Year,No,Civil Engineering,True,3,False,Yes,Yes,6/7,8,11,7,Right-handed,On your right side,True,2,3
+First Year,No,"Physics, Music",False,1,True,Yes,No,3/22,6,7,8,Right-handed,On your left side,True,0,1
+Third Year,No,Statistics,False,1,True,Yes,Yes,7/26,2,2,7.5,Right-handed,On your right side,False,2,3
+Third Year,Yes,civil engineering,False,1,False,Yes,Yes,3/4,4,5,7,Right-handed,On your left side,False,6,2
+Third Year,No,Cognitive Science,True,3,True,Yes,Yes,9/14,4,4,6,Right-handed,On your right side,False,5,2
+First Year,I don't know,Data Science,True,3,True,Yes,Yes,12/28,4,2,7,Right-handed,On your right side,False,0,9
+Third Year,Yes,Civil Engineering,False,1,False,Yes,Yes,5/20,5,5,7,Right-handed,On your back,True,1,2
+First Year,No,Computer Science,True,5,True,Yes,Yes,8/2,3,10,8,Right-handed,On your left side,True,0,3
+First Year,Yes,Civil Engineering,False,2,False,Yes,Yes,3/28,3,2,7,Right-handed,On your back,False,4,2
+First Year,No,Neuroscience,True,2,True,Yes,Yes,12/20,6,4,7,Right-handed,On your back,False,0,3
+First Year,No,Data Science,True,4,True,Yes,Yes,7/20,7,10,7,Right-handed,On your right side,True,0,9
+Second Year,Yes,Computer Science,True,3,False,Yes,Yes,2/25,4,4,8.5,Right-handed,On your left side,False,4,4
+Second Year,Yes,Public Health,False,1,False,Yes,Yes,3/21,4,3,7,Right-handed,On your stomach,True,3,2
+First Year,No,Data Science,True,3,False,Yes,Yes,8/18,6,3,8,Right-handed,On your back,True,0,2
+First Year,No,"Data Science, Statistics",True,4,True,Yes,Yes,7/22,8,5,8,Right-handed,On your left side,False,2,2
+Second Year,I don't know,Cognitive Science,True,3,True,Yes,Yes,7/21,4,3,7,Right-handed,On your right side,True,2,3
+Fourth Year,Yes,Computer Science,True,5,False,Yes,No,1/5,4,7,6,Right-handed,On your stomach,True,0,6
+First Year,No,Data Science,False,2,True,Maybe,Yes,6/15,7,8,5,Right-handed,On your left side,False,0,1
+First Year,No,Data Science,True,3,True,Yes,Yes,3/5,8,6,8,Right-handed,On your right side,True,0,3
+First Year,Yes,Civil Engineering,False,1,False,Yes,Yes,7/30,8,25,7,Right-handed,On your right side,True,0,4
+Fourth Year,Yes,EECS,True,4,True,Yes,No,12/6,7,7,6,Right-handed,On your stomach,True,6,4
+Third Year,Yes,Data Science,True,4,False,Yes,Yes,7/23,9,5,8,Right-handed,On your back,True,2,3
+Second Year,No,"Business, Economics",False,1,True,Yes,No,9/2,9,8,8,Right-handed,On your left side,False,4,1
+First Year,No,Data Science,True,2,True,Yes,Yes,10/25,8,15,8,Right-handed,On your back,False,0,1
+First Year,I don't know,Economics,True,2,True,Yes,No,6/1,5,10,7,Right-handed,On your back,True,0,3
+Second Year,No,Computer Science,True,4,True,Yes,I don't know,9/9,8,10,8,Left-handed,On your stomach,True,5,5
+Second Year,Yes,Legal Studies,False,1,True,Yes,No,11/8,4,4,6,Right-handed,On your right side,False,10,3
+Second Year,Yes,Molecular and Cell Biology,False,4,False,Yes,Yes,5/21,8,3,6,Right-handed,On your left side,False,4,3
+First Year,I don't know,"Cognitive Science, Undecided",True,2,False,Yes,Yes,3/21,5,7,7.5,Right-handed,On your left side,False,0,8
+Second Year,No,Applied Math,True,2,True,Yes,No,1/31,4,1,8,Right-handed,On your right side,False,0,2
+First Year,No,Undecided,False,1,False,Yes,I don't know,12/14,5,5,8,Right-handed,On your back,True,0,2
+First Year,No,Statistics,False,2,True,Yes,Yes,12/29,5,6,7,Right-handed,On your back,True,2,2
+First Year,No,Data Science,True,2,True,Yes,Yes,5/24,4,6,6,Right-handed,On your right side,False,0,4
+First Year,No,Civil Engineering,False,1,True,Yes,Yes,11/16,7,4,8,Right-handed,On your right side,True,0,1
+Second Year,No,Computer Science,True,5,True,Yes,Yes,10/28,4,6,8,Right-handed,On your back,True,0,5
+Third Year,Yes,Data Science,True,3,True,Yes,Yes,6/16,4,7,8,Right-handed,On your right side,True,2,3
+Second Year,No,"Cognitive Science, Undecided",False,1,False,Yes,Yes,5/1,8,10,8,Right-handed,On your back,True,3,2
+First Year,No,Applied Math,True,4,True,Yes,No,11/2,3,3,7,Right-handed,On your back,True,0,4
+Third Year,Yes,Data Science,False,4,True,Yes,Yes,10/13,4,4,7,Right-handed,On your stomach,True,3,2
+Fourth Year,No,Economics,False,3,False,Yes,No,8/18,3,2,8,Right-handed,On your stomach,False,0,4
+First Year,Yes,"Business, Data Science",False,1,False,Yes,Yes,7/28,8,10,8,Right-handed,On your stomach,False,2,1
+First Year,I don't know,"Data Science, Economics",True,3,True,Yes,Yes,4/11,7,4,8,Right-handed,On your right side,True,0,3
+First Year,No,"Applied Math, Molecular and Cell Biology",True,3,True,Yes,No,3/16,7,10,7,Right-handed,On your left side,True,0,4
+First Year,No,"Applied Math, Economics",False,2,True,Yes,Yes,12/25,8,10,7,Right-handed,On your left side,False,0,3
+First Year,No,Neuroscience,True,3,True,Yes,Yes,1/8,8,10,7,Right-handed,On your right side,False,0,3
+First Year,No,Statistics,False,2,True,Yes,Yes,4/6,8,6,7,Right-handed,On your right side,False,0,3
+First Year,No,Data Science,False,2,True,Yes,Yes,2/12,3,3,8,Right-handed,On your back,False,0,2
+Second Year,No,Physics,True,5,True,Yes,No,12/19,3,3,7.5,Right-handed,On your back,False,0,2
+Third Year,No,"Economics, Psychology",False,2,True,No,No,10/12,7,5,6,Right-handed,On your stomach,False,2,4
+First Year,No,"Cognitive Science, English",False,1,True,Yes,Yes,11/25,2,3,7,Right-handed,On your right side,True,2,4
+First Year,No,Data Science,False,2,True,Yes,Yes,2/23,5,8,6.5,Right-handed,On your right side,False,0,4
+Third Year,I don't know,Physics,True,4,False,Yes,Yes,8/21,3,2,7,Right-handed,On your right side,True,0,2
+Second Year,I don't know,Molecular and Cell Biology,True,1,True,Yes,Yes,10/15,4,15,8,Right-handed,On your stomach,False,0,2
+First Year,Yes,Data Science,False,1,True,Yes,Yes,2/8,7,4,7.5,Left-handed,On your back,False,0,2
+First Year,No,Undecided,False,3,False,Yes,Yes,8/9,7,10,8,Right-handed,On your left side,True,0,3
+Second Year,I don't know,legal studies,False,1,False,Yes,Yes,3/13,3,1,7,Right-handed,On your back,False,15,3
+First Year,No,"Data Science, Economics",True,2,False,Yes,Yes,3/7,5,12,6.5,Right-handed,On your left side,False,1,3
+Third Year,Yes,Cognitive Science,True,3,True,Yes,Yes,10/19,4,5,8,Right-handed,On your left side,True,2,2
+Third Year,Yes,civil engineering ,False,1,False,Yes,Yes,7/4,6,4,8,Right-handed,On your left side,True,0,1
+Second Year,No,Political Economy,False,2,True,Yes,Yes,12/10,7,4,7,Right-handed,On your back,False,0,3
+First Year,No,Data Science,True,4,True,Yes,Yes,4/5,7,25,7.254,Right-handed,On your back,False,0,3
+First Year,No,Civil Engineering,True,3,False,Yes,Yes,1/19,5,8,7,Right-handed,On your left side,True,9,1
+First Year,No,Political Economy,False,2,True,Yes,Yes,9/18,8,20,9,Right-handed,On your left side,True,0,4
+Third Year,No,Microbial Bio,True,4,True,Yes,Yes,6/3,4,4,8,Right-handed,On your left side,True,7,3
+First Year,No,Data Science,True,3,False,Yes,Yes,12/9,6,8,6,Right-handed,On your left side,False,2,4
+Second Year,No,"Economics, Public Health",True,1,True,Yes,Yes,3/6,4,7,5,Right-handed,On your right side,False,2,2
+First Year,No,Applied Math,True,3,True,Yes,Yes,10/6,6,10,8,Right-handed,On your right side,False,0,2
+Third Year,No,Applied Math,True,4,True,Yes,Yes,3/11,4,5,8,Right-handed,On your left side,False,0,2
+First Year,No,Statistics,True,1,False,Yes,Yes,4/14,3,4,7,Right-handed,On your back,True,0,1
+First Year,No,Data Science,True,4,False,Yes,Yes,3/5,2,6,9,Right-handed,On your right side,True,0,2
+Second Year,I don't know,Public Health,False,1,False,Yes,Yes,8/2,4,5,7,Right-handed,On your stomach,True,2,3
+First Year,No,Data Science,True,3,True,Yes,Yes,6/12,6,3,7,Right-handed,On your back,False,0,2
+First Year,No,Undecided,True,3,False,Yes,Yes,4/15,5,7,7,Right-handed,On your right side,False,0,3
+First Year,No,Business,True,2,True,Yes,Yes,7/28,7,10,7,Right-handed,On your back,False,0,3
+First Year,Yes,Civil Engineering,False,1,False,Yes,Yes,8/4,8,8,8,Right-handed,On your stomach,True,4,5
+First Year,Yes,Business,False,1,False,Yes,Yes,8/15,8,5,7,Right-handed,On your left side,True,2,2
+First Year,No,Data Science,True,4,False,Yes,Yes,1/19,3,4,6,Right-handed,On your right side,False,0,2
+First Year,No,"Data Science, Bioengineering",False,4,False,Yes,Yes,7/13,6,3,6.5,Right-handed,On your back,False,0,2
+Second Year,No,"Business, Computer Science",True,4,True,Yes,Yes,7/1,7,5,7,Right-handed,On your left side,True,0,6
+Third Year,No,Data Science,False,3,False,Yes,Yes,7/2,5,3,8,Right-handed,On your back,False,1,6
+Fourth Year,Yes,Public Health,False,1,False,Yes,Yes,12/30,5,1,7,Right-handed,On your left side,True,0,2
+Third Year,No,Data Science,True,2,False,Yes,Yes,2/2,4,4,7,Right-handed,On your left side,False,0,3
+First Year,,"Data Science, Public Health",False,1,True,Yes,Yes,1/13,9,4,8,Right-handed,On your stomach,False,0,1
+First Year,No,Data Science,True,3,False,Yes,Yes,1/16,6,12,7,Left-handed,On your right side,False,2,2
+Second Year,Yes,chemical engineering,True,3,True,Yes,Yes,12/31,7,5,8,Right-handed,On your right side,True,6,4
+First Year,No,Civil Engineering,True,1,False,Yes,Yes,6/22,7,6,7.5,Left-handed,On your stomach,False,0,5
+Third Year,I don't know,Data Science,False,3,True,Yes,Yes,9/4,2,1,8,Right-handed,On your left side,False,0,4
+First Year,No,"Applied Math, Data Science",True,4,True,Yes,Yes,9/28,4,8,8,Right-handed,On your right side,False,0,4
+First Year,Yes,"Cognitive Science, Data Science, Chemical Engineering",False,1,False,Yes,No,2/8,5,6,9,Right-handed,On your right side,True,2,2
+First Year,No,"Cognitive Science, Data Science",True,3,True,Yes,Yes,10/8,6,7,7.5,Right-handed,On your left side,True,0,2
+First Year,Yes,Civil engineering ,True,2,True,Yes,Yes,3/30,4,6,9,Right-handed,On your stomach,True,6,3
+First Year,No,Civil Engineering,True,2,False,Yes,Yes,1/26,6,7,5,Right-handed,On your stomach,True,1,3
+First Year,No,Civil Engineering,False,1,False,Yes,Yes,1/10,7,8,8,Right-handed,On your right side,True,0,4
+First Year,No,Data Science,True,3,True,Yes,Yes,11/17,7,5,8,Right-handed,On your back,False,2,2
+Second Year,No,Undecided,False,1,False,Yes,Yes,6/28,1,1,7,Right-handed,On your left side,True,2,4
+First Year,I don't know,Civil Engineering,True,4,True,Yes,Yes,6/12,3,9,7,Left-handed,On your back,False,2,2
+First Year,I don't know,"Applied Math, Computer Science",True,4,False,Yes,Yes,7/31,3,10,8,Right-handed,On your back,False,0,5
+First Year,Yes,Cognitive Science,False,1,False,Yes,Yes,2/23,3,4,8,Right-handed,On your stomach,True,2,3
+First Year,No,Data Science,True,3,True,Yes,Yes,12/18,4,5,7,Right-handed,On your back,False,3,5
+First Year,No,Statistics,True,4,True,Yes,Yes,1/19,5,2,7,Right-handed,On your back,True,0,2
+Second Year,No,"Sociology, Music",False,1,True,Yes,No,3/2,7,11,8.5,Right-handed,On your back,True,5,2
+First Year,No,"Economics, Statistics",True,3,True,Yes,Yes,9/8,5,3,7,Right-handed,On your back,False,0,1
+First Year,I don't know,"Computer Science, Data Science",True,4,True,Yes,Yes,10/17,8,11,7,Right-handed,On your back,True,0,3
+First Year,No,"Business, I might pursue a Minor or a Major in Data Science in addition to Business.",True,2,True,Yes,Yes,6/19,6,4,5.5,Right-handed,On your back,False,0,3
+First Year,Yes,Architecture/Civil Engineering,False,1,True,Yes,Yes,4/5,4,7,7,Right-handed,On your stomach,False,6,2
+Third Year,No,Chemical Engineering,True,3,False,Yes,Yes,3/6,4,6,7,Right-handed,On your right side,False,2,3
+Second Year,Yes,Computer Science,True,5,True,Yes,No,4/22,3,3,8,Right-handed,On your right side,True,0,7
+Second Year,No,Public Health,False,3,True,Yes,Yes,12/5,8,5,7,Right-handed,On your back,True,2,5
+First Year,No,Economics,False,1,True,Yes,Yes,10/11,7,5,7,Right-handed,On your right side,True,0,1
+Second Year,I don't know,"Data Science, Media Studies",False,1,False,Yes,Yes,5/6,8,10,6.5,Right-handed,On your left side,False,2,3
+First Year,No,"Business, Data Science",True,3,True,Yes,Yes,11/2,7,3,7,Right-handed,On your stomach,False,2,3
+Fourth Year,No,Media Studies,False,1,False,Yes,Yes,7/30,1,6,10,Left-handed,On your right side,True,2,3
+Third Year,Yes,Data Science,True,3,True,Yes,Yes,3/16,5,5,7,Right-handed,On your back,False,4,4
+First Year,No,Data Science,True,3,True,Yes,Yes,7/16,6,4,7,Right-handed,On your right side,False,4,3
+First Year,Yes,Data Science,True,2,False,Yes,Yes,4/29,7,5,7,Right-handed,On your back,False,0,1
+Second Year,I don't know,"Data Science, Neurology",False,1,False,Yes,No,10/27,1,5,7,Right-handed,On your back,True,0,1
+First Year,I don't know,Applied Math,False,1,True,Yes,Yes,8/13,5,3,7,Right-handed,On your back,True,2,2
+First Year,No,Applied Math,False,1,False,Yes,No,10/13,7,8,7.5,Right-handed,On your right side,True,0,3
+Third Year,No,Data Science,True,5,True,Yes,Yes,5/9,3,2,7,Right-handed,On your back,True,0,2
+First Year,No,Economics,True,3,True,Yes,Yes,7/4,7,5,8,Right-handed,On your left side,False,0,4
+Third Year,No,Applied Math,True,4,True,Yes,Yes,11/2,5,5,8,Right-handed,On your stomach,False,0,6
+Second Year,Yes,"Business, Civil Engineering",True,3,False,Yes,Yes,6/28,4,3,8,Right-handed,On your back,False,0,2
+Fifth Year or above,I don't know,Astrophysics,True,2,True,Yes,Yes,4/5,6,3,7,Right-handed,On your right side,True,2,2
+First Year,No,Data Science,True,3,True,Yes,Yes,4/20,4,6,7,Right-handed,On your back,False,2,2
+First Year,I don't know,Data Science,True,3,True,Yes,Yes,7/21,4,5,7,Right-handed,On your right side,False,0,2
+First Year,No,Civil Engineering,False,2,False,Yes,Yes,4/1,4,9,8,Right-handed,On your back,True,0,3
+First Year,No,Statistics,True,3,True,Yes,Yes,1/5,8,6,8,Right-handed,On your right side,False,0,3
+Second Year,I don't know,Integrative Biology,False,1,False,Yes,Yes,7/18,5,5,7,Right-handed,On your stomach,True,3,6
+First Year,No,Data Science,True,3,False,Yes,Yes,8/29,3,6,6,Right-handed,On your left side,False,2,2
+Second Year,No,"Computer Science, Data Science",True,2,False,Yes,Yes,10/21,3,3,7,Right-handed,On your right side,False,0,2
+Second Year,Yes,Mechanical Engineering,True,5,False,Yes,Yes,12/10,7,10,7,Right-handed,On your back,True,0,2
+First Year,I don't know,Applied Math,True,3,False,Yes,Yes,2/18,6,10,7,Right-handed,On your right side,True,2,6
+Second Year,Yes,"Cognitive Science, Computer Science",True,3,False,Yes,Yes,6/3,3,1,6,Right-handed,On your left side,True,2,2
+First Year,No,Data Science,True,5,False,Yes,Yes,3/18,7,4,7,Right-handed,On your back,True,0,3
+Second Year,Yes,Public Health,True,1,False,Yes,Yes,12/19,4,4,6,Right-handed,On your stomach,True,2,4
+Third Year,I don't know,Statistics,False,1,True,Yes,Yes,9/24,1,2,9,Right-handed,On your right side,False,0,1
+First Year,Yes,Data Science,False,1,True,Yes,Yes,4/28,5,4,6,Right-handed,On your right side,True,0,1
+First Year,Yes,Civil Engineering,False,2,False,Yes,Yes,1/12,3,5,8,Left-handed,On your right side,True,6,4
+Third Year,Yes,Data Science,True,5,True,Yes,Yes,4/1,7,10,8,Right-handed,On your back,True,0,1
+Third Year,I don't know,Statistics,True,1,True,Yes,Yes,2/26,6,7,8,Right-handed,On your right side,False,2,0
+First Year,No,Statistics,True,2,True,Yes,Yes,5/26,4,10,6.5,Right-handed,On your back,True,0,2
+First Year,No,Economics,False,2,False,Yes,Yes,9/21,3,5,6,Left-handed,On your back,True,0,3
+Second Year,No,Chemistry,True,2,False,Yes,Yes,11/3,3,5,8,Right-handed,On your left side,True,2,3
+First Year,No,Neuroscience,False,2,True,Yes,Yes,11/8,4,5,7,Right-handed,On your stomach,False,0,3
+Second Year,Yes,Cognitive Science,False,1,False,Yes,Yes,12/6,4,3,7,Right-handed,On your right side,True,4,5
+Second Year,I don't know,"Economics, Statistics",False,3,True,Yes,Yes,3/28,2,1,7,Left-handed,On your back,False,0,1
+First Year,I don't know,"Data Science, Undecided",False,1,False,Yes,I don't know,4/6,9,6,8,"born left-handed, but i live right-handed",On your right side,False,2,2
+First Year,No,"Data Science, Economics, Statistics",True,2,True,Yes,Yes,7/28,6,5,7,Right-handed,On your left side,False,2,2
+Second Year,Yes,English,False,1,False,Yes,No,7/17,5,10,8,Right-handed,On your right side,True,5,2
+Third Year,No,"Data Science, Statistics",False,4,True,Yes,Yes,11/7,6,4,6,Left-handed,On your right side,False,0,3
+First Year,Yes,Civil Engineering,False,2,False,Yes,Yes,7/25,5,3,7,Right-handed,On your back,True,0,2
+Second Year,Yes,Public Health,False,1,True,Yes,Yes,7/27,5,7,6,Right-handed,On your left side,True,8,3
+First Year,No,Society and Environment,False,1,True,Yes,Yes,5/22,6,8,7,Right-handed,On your left side,True,2,2
+Second Year,No,"Applied Math, Data Science",False,2,True,Yes,Yes,5/4,2,1,6,Right-handed,On your back,True,0,5
+Second Year,I don't know,Engineering,True,2,False,Yes,Yes,6/7,5,4,7,Right-handed,On your back,False,0,2
+Third Year,I don't know,Statistics,True,3,True,Yes,Yes,1/14,5,4,7,Right-handed,On your stomach,False,0,3
+First Year,No,Data Science,True,4,True,Yes,Yes,1/5,4,15,8,Right-handed,On your stomach,False,0,4
+Second Year,No,Economics,False,1,False,Yes,I don't know,2/26,4,20,8,Right-handed,On your right side,False,1,2
+Second Year,No,"Cognitive Science, Data Science",True,3,False,Yes,Yes,12/12,4,4,7,Right-handed,On your left side,False,0,1
+Second Year,No,Public Health,False,2,False,Yes,Yes,5/29,7,5,7,Right-handed,On your right side,False,1,6
+First Year,I don't know,Civil Engineering,False,2,False,Yes,Yes,10/20,4,10,6,Right-handed,On your back,False,0,1
+Fifth Year or above,Yes,"Public Health, Anthropology",True,2,True,Yes,Yes,1/25,1,2,5,Left-handed,On your back,False,0,1
+Second Year,No,"Cognitive Science, Art History",True,3,True,Yes,Yes,11/26,3,2,8,Right-handed,On your right side,True,2,2
+Third Year,Yes,"Psychology, Double major in social welfare",True,2,True,Yes,No,7/28,4,5,8,Right-handed,On your stomach,False,0,2
+Second Year,Yes,Civil and Environmental Engineering ,True,4,False,Yes,Yes,3/30,5,7,8,Right-handed,On your right side,True,0,4
+Second Year,No,"Cognitive Science, Data Science",True,3,False,Yes,Yes,9/15,3,4,7,Left-handed,On your left side,False,2,5
+First Year,No,Data Science,True,3,True,Yes,Yes,8/10,4,3,8,Right-handed,On your back,False,0,3
+First Year,No,Chemistry,True,4,True,Yes,Yes,4/8,3,6,7,Right-handed,On your back,True,0,2
+First Year,I don't know,Data Science,True,3,True,Yes,Yes,1/18,5,2,8,Left-handed,On your back,True,0,2
+Fourth Year,No,"Applied Math, Computer Science",True,5,True,Maybe,No,3/1,5,8,8,Right-handed,On your left side,True,0,2
+First Year,No,"Applied Math, Data Science",True,4,True,Yes,Yes,4/23,2,2,7,Right-handed,On your left side,False,0,4
+First Year,Yes,Civil Engineering,True,4,False,Yes,Yes,1/21,6,5,8,Right-handed,On your back,False,0,1
+First Year,No,Statistics,False,1,True,Yes,Yes,9/12,8,10,8,Right-handed,On your back,False,0,2
+First Year,No,Civil Engineering,True,3,False,Yes,Yes,2/23,6,5,7,Right-handed,On your right side,True,2,2
+Third Year,No,Applied Math,True,3,False,Yes,No,12/14,4,5,9,Right-handed,On your left side,True,0,5
+First Year,Yes,"Business, Data Science, Economics, Environmental Science, Political Science",False,2,True,Yes,Yes,6/14,8,12,7,Right-handed,On your back,False,0,9
+Third Year,Yes,Applied Math,True,4,True,Yes,Yes,8/27,3,3,10,Right-handed,On your left side,True,0,2
+First Year,Yes,"Data Science, Economics",True,3,True,Yes,Yes,10/27,8,4,8,Right-handed,On your stomach,True,0,5
+Second Year,No,Cognitive Science,True,4,True,Yes,Yes,11/16,6,2,8,Right-handed,On your left side,False,2,2
+First Year,No,Data Science,True,4,True,Yes,Yes,7/2,3,10,8,Right-handed,On your left side,True,0,5
+Third Year,No,Civil Engineering,True,2,False,Yes,Yes,6/30,4,5,8,Right-handed,On your right side,True,0,2
+Third Year,No,EECS,True,5,True,Yes,No,11/14,5,5,8,Right-handed,On your back,True,0,3
+First Year,No,"Business, Undecided",False,1,True,Yes,I don't know,3/3,8,5,7,Right-handed,On your back,True,2,3
+First Year,No,Applied Math,False,4,True,Yes,Yes,10/9,3,4,8,Left-handed,On your left side,False,0,1
+First Year,No,Data Science,True,4,True,Yes,Yes,11/4,3,3,7,Left-handed,On your right side,True,0,1
+First Year,No,Data Science,True,2,True,Yes,Yes,7/11,7,20,7,Right-handed,On your right side,False,1,4
+First Year,No,Statistics,True,3,True,Yes,Yes,11/4,7,10,7,Right-handed,On your back,False,0,2
+First Year,No,Data Science,True,3,True,Yes,Yes,4/7,6,6,7,Right-handed,On your back,False,0,3
+Second Year,No,Mathematics,True,2,True,Yes,No,4/30,6,10,7,Right-handed,On your left side,True,0,3
+First Year,I don't know,Data Science,True,2,True,Yes,Yes,6/27,5,5,7,Right-handed,On your back,False,0,3
+First Year,No,"Data Science, Economics",True,3,True,Yes,Yes,5/22,8,5,7,Right-handed,On your left side,False,0,4
+Third Year,No,Public Health,False,1,False,Yes,Yes,1/30,6,5,6,Right-handed,On your back,True,4,3
+Second Year,No,"Business, Economics",False,1,False,Yes,Yes,5/5,8,10,7,Right-handed,On your right side,False,2,1
+First Year,Yes,Cognitive Science,True,2,False,Yes,Yes,11/12,4,4,8,Right-handed,On your right side,True,6,2
+First Year,No,"Business, Data Science, Physics",True,3,True,Yes,Yes,7/19,6,8,6.5,Right-handed,On your right side,False,2,5
+Third Year,Yes,Psychology,False,2,True,Yes,Yes,4/19,6,2,6,Right-handed,On your left side,False,2,2
+First Year,No,Civil Engineering,False,2,True,Yes,Yes,8/29,8,30,7,Right-handed,On your right side,True,0,4
+First Year,I don't know,Molecular and Cell Biology,False,1,False,Yes,I don't know,7/8,3,3,7,Right-handed,On your back,True,0,1
+Second Year,I don't know,Public Health,False,1,True,Yes,Yes,7/8,5,4,8,Right-handed,On your left side,True,4,2
+First Year,No,Data Science,True,3,False,Yes,Yes,7/4,7,15,7.5,Right-handed,On your back,True,2,1
+Third Year,No,Applied Math,True,3,False,Yes,Yes,6/30,5,4,7,Right-handed,On your back,False,0,3
+First Year,No,Statistics,True,2,True,Yes,Yes,6/28,7,15,8,Right-handed,On your left side,False,0,4
+First Year,No,IEOR,True,2,True,Yes,Yes,6/20,8,10,7,Left-handed,On your left side,True,0,2
+First Year,No,Civil Engineering,True,3,True,Yes,Yes,1/10,5,9,8,Right-handed,On your right side,False,0,1
+First Year,Yes,Civil Engineering,False,2,False,Yes,Yes,7/7,6,6,6,Right-handed,On your left side,True,2,2
+Second Year,No,Cognitive Science,False,2,False,Yes,Yes,1/25,7,4,9,Right-handed,On your back,True,5,2
+First Year,,Data Science,True,3,True,Yes,Yes,5/10,4,4,6,Right-handed,On your right side,True,2,1
+Third Year,No,Statistics,False,2,False,Yes,Yes,1/14,3,5,7,Right-handed,On your back,True,0,2
+First Year,Yes,Undecided,False,1,False,Yes,Yes,1/26,4,2,7,Right-handed,On your stomach,False,4,2
+Fourth Year,No,"Molecular and Cell Biology, Public Health",True,2,True,Yes,Yes,6/20,8,4,7,Right-handed,On your back,False,0,3
+Second Year,Yes,"Cognitive Science, Psychology, Neuroscience",True,3,True,Yes,Yes,12/7,7,8,6,Left-handed,On your left side,False,3,3
+First Year,No,Applied Math,True,3,True,Yes,No,6/9,9,3,6,Right-handed,On your right side,False,0,3
+First Year,No,Physics,True,4,True,Yes,No,3/21,6,15,8,Right-handed,On your right side,True,0,2
+Third Year,I don't know,Applied Math,True,3,True,Yes,Yes,3/4,5,10,7,Right-handed,On your stomach,True,0,3
+First Year,No,Data Science,True,3,True,Yes,Yes,12/18,5,6,7,Right-handed,On your back,False,0,8
+First Year,No,Data Science,True,3,True,Yes,Yes,4/11,4,4,5,Right-handed,On your stomach,False,0,7
+Second Year,No,Molecular and Cell Biology,False,1,True,Yes,Yes,6/3,7,2,7,Right-handed,On your back,False,0,0
+Second Year,No,"Business, Economics",False,1,True,Yes,Yes,11/5,4,12,8,Right-handed,On your right side,True,0,2
+First Year,I don't know,Data Science,True,3,False,Yes,Yes,1/6,9,5,7,Right-handed,On your back,False,0,2
+First Year,Yes,"Economics, Society and Environment",True,2,True,Yes,Yes,9/4,8,9,7,Right-handed,On your left side,True,0,2
+Third Year,No,"Data Science, Statistics",True,2,True,Yes,Yes,1/30,5,4,7,Right-handed,On your back,False,2,4
+First Year,I don't know,Data Science,True,2,True,Yes,Yes,9/23,8,10,7,Right-handed,On your right side,True,1,1
+First Year,No,"Business, Economics",True,2,False,Yes,No,3/23,3,3,6,Right-handed,On your right side,True,4,5
+Second Year,No,Statistics,True,3,True,Yes,Yes,7/12,3,5,7.5,Left-handed,On your back,False,0,2
+Third Year,No,Data Science,False,3,False,Yes,Yes,8/8,5,5,5,Right-handed,On your right side,False,3,2
+First Year,I don't know,"Data Science, Astrophysics",True,2,True,Yes,Yes,3/19,6,3,8,Right-handed,On your right side,False,0,1
+First Year,I don't know,"Applied Math, Data Science, Statistics",False,3,False,Yes,Yes,2/22,6,4,7,"Mostly right-handed in daily life, but left-handed when I do most of the sports.",On your back,True,0,3
+First Year,I don't know,Applied Math,True,3,True,Yes,Yes,6/4,5,6,6,Left-handed,On your right side,False,0,4
+First Year,Yes,Data Science,True,5,True,Yes,Yes,7/12,5,10,8,Right-handed,On your back,True,0,5
+Second Year,Yes,Film and Media,False,1,False,Yes,Yes,4/21,9,12,6.5,Right-handed,On your right side,False,5,2
+First Year,No,"Data Science, Undecided",False,2,False,Maybe,Yes,2/16,4,2,7,Right-handed,On your back,True,3,3
+Third Year,I don't know,Data Science,False,3,False,Yes,Yes,1/19,4,5,8,Right-handed,On your back,True,3,2
+Third Year,Yes,Computer Science,False,3,False,Yes,Yes,4/22,7,10,7,Right-handed,On your left side,True,0,5
+First Year,No,Data Science,True,2,True,Yes,Yes,12/28,5,6,6,Right-handed,On your right side,False,0,2
+Third Year,I don't know,Cognitive Science,False,2,False,Yes,Yes,4/2,3,3,7,Right-handed,On your back,True,0,2
+First Year,No,Data Science,True,3,True,Yes,Yes,11/2,5,3,7,Right-handed,On your back,False,0,1
+Third Year,Yes,IEOR,True,3,False,Yes,Yes,9/30,4,5,9,Right-handed,On your right side,True,0,2
+Second Year,No,Integrated Biology,True,4,True,Yes,No,12/17,5,4,7,Right-handed,On your right side,True,0,2
+First Year,Yes,Undecided,False,1,True,Yes,Yes,8/11,4,4,7,Right-handed,On your back,False,1,2
+First Year,No,Molecular and Cell Biology,True,2,True,Yes,Yes,11/2,6,3,6,Right-handed,On your back,True,0,2
+Second Year,Yes,"Cognitive Science, Computer Science",True,2,False,Yes,Yes,2/11,2,10,5,Right-handed,On your left side,False,4,2
+Third Year,I don't know,Civil Engineering,True,2,True,Yes,Yes,4/19,6,5,7,Right-handed,On your back,False,0,3
+First Year,I don't know,Data Science,False,4,True,Yes,Yes,6/7,2,3,8,Right-handed,On your back,True,2,2
+Second Year,No,"Business, Molecular and Cell Biology",False,1,True,Yes,Yes,1/27,8,15,8,Right-handed,On your back,True,4,4
+First Year,No,"Data Science, Economics",False,1,False,Yes,Yes,2/2,6,5,8,Right-handed,On your right side,False,2,3
+Third Year,No,Statistics,True,3,True,Yes,Yes,2/7,5,4,8,Right-handed,On your back,False,0,4
+First Year,No,Data Science,True,4,True,Yes,Yes,9/24,6,5,7,Right-handed,On your left side,True,2,3
+First Year,Yes,"Cognitive Science, Data Science",True,1,True,Yes,Yes,6/4,2,5,7,Right-handed,On your back,True,2,3
+First Year,No,"Political Economy, History",False,1,False,Yes,Yes,7/5,7,10,8,Right-handed,On your back,True,4,3
+Second Year,I don't know,"Data Science, Economics",False,1,True,Yes,Yes,3/6,9,5,6,Right-handed,On your back,False,0,4
+Second Year,No,"Molecular and Cell Biology, Public Health",False,1,False,Yes,Yes,7/9,7,5,8,Right-handed,On your right side,True,2,2
+First Year,No,"Data Science, Molecular and Cell Biology",True,2,True,Yes,Yes,3/31,6,10,6,Right-handed,On your back,True,0,2
+First Year,No,Data Science,True,3,True,Yes,Yes,2/13,4,5,7.5,Left-handed,On your back,True,2,3
+Third Year,Yes,Business,False,1,True,Yes,No,5/23,7,5,6,Right-handed,On your left side,False,3,2
+First Year,I don't know,"Cognitive Science, Data Science",True,3,False,Yes,Yes,2/21,3,4,6,Right-handed,On your right side,True,0,3
+Second Year,No,"Business, Data Science, Economics",True,1,True,Yes,Yes,2/23,4,6,6,Right-handed,On your back,True,2,4
+Second Year,No,"Computer Science, Data Science",True,4,True,Yes,Yes,5/15,5,7,7,Right-handed,On your left side,True,5,4
+Third Year,Yes,"Applied Math, Data Science",True,5,True,Yes,Yes,10/9,8,5,7,Right-handed,On your left side,False,0,7
+First Year,I don't know,"Computer Science, Data Science",True,3,True,Yes,Yes,7/23,4,5,7,Right-handed,On your left side,False,2,3
+Second Year,I don't know,"Business, Molecular and Cell Biology",True,3,False,Yes,Yes,11/8,7,8,6,Right-handed,On your back,True,1,4
+First Year,Yes,civil engineering,False,1,False,Maybe,Yes,2/22,5,6,7,Right-handed,On your left side,True,4,2
+Second Year,No,"Data Science, Economics, Journalism",False,1,False,Yes,Yes,11/14,6,10,8,Right-handed,On your left side,False,5,3
+First Year,I don't know,Civil engineering,True,3,True,Yes,Yes,2/25,4,3,7,Right-handed,On your left side,False,0,2
+First Year,No,Computer Science,True,3,True,Yes,Yes,10/5,2,6,5,Left-handed,On your back,True,0,4
+Second Year,No,Molecular and Cell Biology,False,1,True,Yes,Yes,3/10,6,3,6,Right-handed,On your back,False,4,3
+First Year,I don't know,Data Science,True,4,False,Maybe,Yes,12/29,3,6,7.5,Right-handed,On your right side,False,0,2
+Third Year,No,Data Science,True,5,True,Yes,Yes,4/10,5,2,8,Left-handed,On your back,False,3,2
+Second Year,No,Data Science,False,3,True,Yes,Yes,8/31,5,2,8,Right-handed,On your back,True,0,2
+First Year,I don't know,Data Science,True,2,True,Yes,Yes,9/18,7,5,7,Right-handed,On your right side,True,4,3
+Third Year,I don't know,Psychology,False,2,False,Yes,No,5/12,2,4,7,Right-handed,On your back,False,2,5
+First Year,No,Statistics,False,1,False,Yes,Yes,10/17,7,5,8,Right-handed,On your back,False,2,4
+First Year,Yes,Civil Engineering,False,1,False,Yes,Yes,12/21,6,5,8,Right-handed,On your stomach,True,4,1
+First Year,I don't know,Civil Engineering,False,3,False,Yes,Yes,7/28,4,5,8,Right-handed,On your back,False,2,2
+First Year,No,Civil Engineering,False,2,True,Yes,Yes,1/11,6,3,6,Left-handed,On your left side,True,0,2
+First Year,No,Data Science,True,2,True,Yes,Yes,2/14,5,8,5,Right-handed,On your back,False,0,3
+Second Year,Yes,"Molecular and Cell Biology, Public Health",False,3,True,Yes,Yes,8/1,5,6,6,Left-handed,On your stomach,True,0,3
+Second Year,Yes,Sociology,False,1,True,Yes,Yes,10/7,7,4,7,Right-handed,On your stomach,True,6,2
+Second Year,I don't know,Statistics,False,5,True,Yes,Yes,2/26,1,1,7,Left-handed,On your stomach,True,0,2
+Second Year,No,Applied Math,False,2,False,Yes,Yes,11/23,9,7,7,Right-handed,On your right side,True,0,3
+First Year,No,Undecided,True,2,True,Yes,Yes,12/13,3,6,6,Right-handed,On your back,False,0,3
+Third Year,No,Applied Math,False,3,True,Yes,Yes,9/25,4,5,8,Right-handed,On your right side,True,0,2
+First Year,No,"Applied Math, Business",False,1,False,Yes,Yes,6/5,3,8,9,Right-handed,On your left side,True,0,3
+First Year,Yes,Data Science,False,1,True,Yes,Yes,8/28,8,5,6,Right-handed,On your right side,False,3,5
+First Year,No,Cognitive Science,False,1,True,Yes,Yes,5/13,4,5,6,Left-handed,On your left side,True,2,1
+Fourth Year,I don't know,Chemical engineering,True,3,True,Yes,Yes,8/10,8,4,6,Right-handed,On your left side,True,5,1
+Third Year,Yes,"Molecular and Cell Biology, Public Health",True,2,True,Yes,Yes,2/20,4,3,6,Right-handed,On your back,True,4,3
+Fourth Year,Yes,Cognitive Science,True,3,True,Yes,Yes,12/17,6,10,7,Right-handed,On your left side,True,5,4
+First Year,No,Data Science,True,4,True,Yes,Yes,8/19,4,5,7,Right-handed,On your left side,False,0,4
+First Year,No,Data Science,True,2,True,Yes,Yes,7/12,7,5,7,Right-handed,On your back,True,0,3
+Third Year,No,Mathematics,False,1,True,Yes,No,12/12,7,10,8,Right-handed,On your left side,True,0,3
+Second Year,No,Engineering math and Stats ,True,4,False,Yes,Yes,9/13,6,5,7,Right-handed,On your right side,True,0,2
+First Year,No,Civil Engineering,True,5,False,Yes,Yes,11/30,8,6,7.5,Right-handed,On your right side,True,0,2
+First Year,I don't know,Civil Engineering,False,2,True,Yes,Yes,11/21,4,3,8,Right-handed,On your back,True,0,2
+Fourth Year,No,"Psychology, Spanish Linguistics",True,2,True,Maybe,No,1/14,7,3,8.5,Right-handed,On your right side,True,0,2
+First Year,No,Integrative Biology,False,2,True,Yes,Yes,3/18,4,4,7,Right-handed,On your back,True,2,7
+Third Year,No,Applied Math,False,2,True,Yes,Yes,10/9,8,5,8,Right-handed,On your right side,False,0,3
+Third Year,No,"Data Science, Political Science",False,1,True,Yes,Yes,6/3,4,5,7,Right-handed,On your left side,False,6,5
+First Year,Yes,Mathematics,True,3,True,Yes,Yes,5/16,4,3,7.5,Right-handed,On your right side,True,0,2
+Second Year,No,"Statistics, Geology",True,3,False,Yes,Yes,9/16,6,5,7,Right-handed,On your left side,True,0,2
+Second Year,I don't know,Applied Math,True,4,True,Yes,No,4/8,1,2,6,Right-handed,On your right side,True,0,4
+First Year,I don't know,"Cognitive Science, Psychology",False,1,False,Yes,Yes,1/14,7,5,5,Right-handed,On your right side,True,2,3
+First Year,I don't know,Data Science,False,1,True,Yes,Yes,5/7,5,3,7,Right-handed,On your back,False,0,2
+Second Year,No,Economics,False,1,True,Yes,No,9/2,5,5,6,Right-handed,On your right side,False,0,6
+Second Year,No,Applied Math,True,4,False,Yes,No,4/11,9,10,7,Right-handed,On your stomach,True,11,7
+Second Year,Yes,Data Science,True,3,True,Yes,Yes,4/11,7,5,7,Right-handed,On your right side,True,2,2
+First Year,No,Data Science,True,2,True,Yes,Yes,12/12,6,7,8,Right-handed,On your back,False,0,4
+First Year,No,Economics,False,2,True,Yes,Yes,8/15,5,3,8,Right-handed,On your back,True,2,2
+First Year,No,Public Health,False,1,True,Yes,Yes,2/16,5,5,7,Right-handed,On your back,True,4,3
+Second Year,Yes,Business,True,4,False,Yes,Yes,9/11,5,4,8,Right-handed,On your back,True,0,4
+First Year,No,"Applied Math, art history",False,1,True,Yes,I don't know,12/30,4,5,8,Right-handed,On your left side,False,0,3
+Second Year,Yes,Data Science,False,2,False,Yes,Yes,10/5,5,5,8,Right-handed,On your back,True,4,2
+Second Year,I don't know,"Cognitive Science, English",False,3,False,Yes,Yes,9/10,5,7,7,Right-handed,On your right side,False,4,5
+Third Year,I don't know,Media Studies,False,1,False,Yes,Yes,10/17,4,4,8,Left-handed,On your back,True,3,9
+First Year,Yes,Civil Engineering,False,2,False,Yes,Yes,10/21,9,10,7,Right-handed,On your back,False,0,4
+Third Year,No,"Applied Math, Statistics",True,2,True,Yes,No,1/6,6,6,7,Right-handed,On your left side,True,0,2
+First Year,Yes,Civil Engineering,False,1,True,Yes,Yes,7/27,3,10,8,Right-handed,On your back,True,2,1
+Third Year,I don't know,Statistics,True,4,False,Yes,Yes,9/26,3,2,7,Right-handed,On your left side,False,0,1
+Second Year,No,Cognitive Science,False,1,False,Yes,Yes,9/29,4,3,8,Right-handed,On your right side,True,0,2
+Second Year,Yes,"Cognitive Science, Computer Science",True,3,False,Yes,Yes,10/17,6,8,7,Right-handed,On your left side,False,4,3
+First Year,No,Data Science,False,4,False,Yes,Yes,4/29,8,5,6,Right-handed,On your back,True,0,4
+First Year,I don't know,Data Science,True,3,True,Yes,Yes,1/3,4,4,7,Right-handed,On your back,True,2,2
+First Year,I don't know,Bioengineering,True,2,True,Yes,Yes,7/4,3,5,8,Right-handed,On your left side,False,5,2
+First Year,Yes,Data Science,False,3,True,Maybe,Yes,9/16,8,2,7,Right-handed,On your left side,False,0,3
+First Year,No,Economics,False,1,True,Yes,Yes,8/4,7,10,6,Right-handed,On your stomach,False,4,4
+Third Year,No,Economics,False,1,True,Yes,Yes,12/4,4,4,7,Right-handed,On your back,False,0,1
+First Year,No,Data Science,False,2,False,Yes,Yes,2/3,8,7,7,Left-handed,On your left side,False,7,4
+First Year,I don't know,Civil Engineering,False,3,False,Yes,Yes,3/12,2,5,7,Right-handed,On your right side,False,0,1
+Second Year,No,EECS,True,5,True,Yes,Yes,11/29,6,17,7,Right-handed,On your right side,False,4,4
+First Year,No,"Data Science, Economics",True,2,True,Yes,Yes,12/28,6,10,7,Left-handed,On your right side,False,0,13
+First Year,Yes,Undecided,False,3,False,Yes,Yes,5/3,8,20,9,Right-handed,On your back,False,2,3
+First Year,I don't know,Integrative Biology/Dance and Performance Studies,False,1,True,Yes,Yes,8/6,6,6,7,Right-handed,On your back,True,5,6
+First Year,No,Society and Environment,False,2,False,Yes,Yes,7/26,6,7,7,Right-handed,On your right side,True,2,3
+Third Year,No,Aerospace Engineering,True,5,True,Yes,No,12/30,4,8,7,Right-handed,On your right side,True,0,3
+Second Year,Yes,"Data Science, Economics",True,3,True,Yes,Yes,5/15,3,12,8,Right-handed,On your back,True,9,2
+First Year,No,Civil Engineering,True,1,False,Yes,Yes,10/20,7,8,7,Right-handed,On your back,True,0,2
+Third Year,No,Economics,True,1,True,Yes,Yes,7/13,3,8,8,Right-handed,On your stomach,True,2,1
+Second Year,I don't know,"Cognitive Science, Data Science",True,4,True,Yes,Yes,12/21,8,10,7,Right-handed,On your right side,True,0,3
+Second Year,No,"Cognitive Science, Media Studies",False,1,False,Yes,Yes,7/1,8,3,8,Right-handed,On your right side,True,3,3
+First Year,I don't know,"Data Science, Economics, Undecided",True,3,True,Maybe,I don't know,10/11,8,15,6,Right-handed,On your back,False,2,2
+Fourth Year,No,Cognitive Science,True,2,False,Yes,Yes,11/30,2,1,6,Right-handed,On your left side,False,0,2
+Third Year,Yes,"Psychology, Public Health",True,3,True,Yes,Yes,5/21,6,10,7,Right-handed,On your back,True,2,2
+First Year,No,Data Science,True,3,True,Yes,Yes,6/15,3,7,7,Right-handed,On your left side,False,0,2
+First Year,No,Data Science,True,5,False,Yes,Yes,8/19,8,5,8,Right-handed,On your right side,True,0,5
+First Year,No,"Data Science, Political Science, Undecided",False,2,True,Yes,Yes,12/27,8,8,7,Right-handed,On your left side,False,2,4
+Second Year,I don't know,Cognitive Science,True,5,True,Yes,Yes,8/28,4,3,8,Left-handed,On your left side,False,0,4
+Second Year,Yes,"Computer Science, Data Science",True,1,False,Yes,Yes,1/2,4,2,6,Right-handed,On your stomach,True,0,3
+Third Year,No,"Political Economy, Sociology",False,1,True,Yes,No,12/23,10,5,7,Right-handed,On your right side,True,0,3
+First Year,No,Economics,True,2,True,Yes,Yes,10/2,6,10,7,Right-handed,On your left side,False,0,4
+Third Year,No,Statistics,True,3,True,Yes,Yes,1/16,7,12,7,Right-handed,On your back,False,0,3
+First Year,No,Cognitive Science,True,2,False,Yes,Yes,6/30,3,3,7,Right-handed,On your right side,False,7,2
+Third Year,I don't know,Data Science,True,5,True,Yes,Yes,6/23,2,0,8,Right-handed,On your right side,False,0,2
+First Year,No,Applied Math,False,3,False,Yes,Yes,5/3,4,5,7,Right-handed,On your left side,False,0,5
+First Year,No,Data Science,True,3,True,Yes,Yes,11/16,6,6,7,Right-handed,On your right side,False,0,5
+First Year,No,Data Science,False,1,True,Yes,Yes,4/14,3,15,6,Right-handed,On your right side,True,0,2
+Second Year,No,"Data Science, Linguistics",True,3,False,Yes,Yes,9/8,5,15,7,Left-handed,On your back,True,0,1
+First Year,I don't know,Data Science,True,3,True,Yes,Yes,7/24,7,5,7,Right-handed,On your right side,False,2,3
+First Year,I don't know,Civil Engineering,False,3,True,Yes,Yes,12/20,4,5,7,Right-handed,On your left side,True,0,2
+First Year,Yes,Civil Engineering,True,4,False,Yes,Yes,12/27,7,4,7,Right-handed,On your right side,True,2,2
+Second Year,No,Data Science,True,3,True,Yes,Yes,2/7,5,7,8,Right-handed,On your back,False,0,2
+First Year,I don't know,Industrial Engineering and Operations Research,False,2,True,Yes,Yes,6/8,6,12,7,Right-handed,On your back,True,3,1
+First Year,Yes,Data Science,False,3,True,Yes,Yes,8/6,4,3,8,Right-handed,On your left side,True,0,2
+Third Year,Yes,Computer Science,True,5,True,Yes,Yes,10/29,6,4,7.5,Right-handed,On your stomach,False,0,3
+Second Year,Yes,"Cognitive Science, Political Science",False,1,True,Yes,No,12/7,4,5,7,Right-handed,On your stomach,False,4,8
+Second Year,No,Applied Math,True,4,True,Yes,Yes,10/8,8,20,6,Right-handed,On your stomach,True,0,4
+Third Year Transfer Student,No,Data Science,True,3,False,Yes,Yes,11/28,3,5,9,Right-handed,On your left side,True,3,3
+First Year,No,Data Science,True,1,True,Yes,Yes,5/11,6,6,8,Right-handed,On your left side,True,1,3
+Third Year,No,Data Science,True,2,False,Yes,Yes,5/11,3,3,6,Right-handed,On your right side,True,0,3
+Second Year,Yes,Mechanical Engineering,True,3,False,Yes,No,10/15,7,8,7,Right-handed,On your stomach,True,0,1
+First Year,I don't know,Computer Science,True,5,True,Yes,Yes,1/17,5,10,7,Right-handed,On your back,False,0,4
+Second Year,No,"Molecular and Cell Biology, Public Health",True,3,True,Yes,Yes,5/9,3,5,8,Right-handed,On your right side,True,3,3
+First Year,Yes,"Computer Science, Data Science",False,2,False,Yes,Yes,3/1,6,3,6,Left-handed,On your right side,True,3,3
+First Year,Yes,Data Science,True,3,False,Yes,Yes,3/12,5,9,7,Right-handed,On your left side,True,5,5
+Third Year,No,EECS,True,5,True,Yes,Yes,9/1,6,4,7,Left-handed,On your left side,False,0,1
+Third Year,I don't know,"Data Science, Statistics",True,2,True,Yes,Yes,7/21,8,4,7,Right-handed,On your right side,False,0,2
+First Year,No,Data Science,True,4,True,Yes,Yes,12/28,3,10,7,Left-handed,On your right side,False,0,2
+Fourth Year,No,Applied Math,True,3,True,Yes,No,5/30,5,4,8,Right-handed,On your back,False,0,4
+Third Year,I don't know,civil engineering ,True,2,True,Yes,Yes,11/10,3,2,8,Right-handed,On your back,False,3,2
+Third Year,I don't know,Statistics,True,4,True,Yes,Yes,12/27,7,5,7,Right-handed,On your left side,True,3,3
+Third Year,Yes,Astrophysics,False,3,False,Yes,Yes,1/26,4,3,7,Left-handed,On your left side,False,0,5
+Third Year,No,"Data Science, Physics",True,5,False,Yes,Yes,5/25,3,4,9,Right-handed,On your right side,True,0,2
+First Year,No,Physics,True,5,True,Yes,Yes,5/14,2,4,8,Right-handed,On your left side,False,0,3
+Second Year,No,"Data Science, Economics",True,3,True,Yes,Yes,3/9,8,20,8,Right-handed,On your right side,True,6,1
+First Year,No,Computer Science,False,2,False,Yes,Yes,5/15,2,3,7,Right-handed,On your left side,True,2,5
+Second Year,No,EECS,True,5,True,Yes,No,4/26,8,15,6,Right-handed,On your stomach,True,2,7
+Third Year,Yes,"Economics, Statistics",False,2,True,Yes,Yes,9/30,4,4,8,Right-handed,On your right side,True,2,3
+Third Year,Yes,Public Health,False,1,False,Yes,Yes,7/20,8,8,8,Right-handed,On your right side,True,3,2
+Third Year,Yes,Civil Engineering,True,2,False,Yes,Yes,12/12,3,5,7,Right-handed,On your stomach,False,0,2
+Third Year,I don't know,Undecided,True,3,False,Yes,Yes,8/20,3,3,7,Right-handed,On your left side,False,0,2
+First Year,Yes,Business,False,1,True,Yes,Yes,8/28,9,20,7,Right-handed,On your left side,True,0,3
+First Year,Yes,"Cognitive Science, Data Science, Interdisciplinary Studies",False,1,False,Yes,Yes,6/15,6,10,7,Right-handed,On your left side,True,0,6
+First Year,No,"Data Science, Physics",True,3,False,Yes,Yes,9/16,5,3,7,Right-handed,On your left side,True,2,1
+First Year,I don't know,Civil Engineering,True,2,False,Yes,Yes,8/9,3,2,8,Right-handed,On your right side,False,0,2
+First Year,No,Data Science,True,3,True,Yes,Yes,5/4,8,12,9,Right-handed,On your left side,False,0,3
+Second Year,No,Society and Environment ,False,1,False,Yes,Yes,12/9,9,10,6,Right-handed,On your back,True,4,2
+First Year,No,Civil Engineering,False,5,False,Yes,Yes,5/10,10,10,6,Right-handed,On your back,True,0,1
+Fourth Year,No,Public Health,False,2,False,Yes,Yes,7/21,5,10,8,Right-handed,On your back,True,4,2
+First Year,No,Statistics,True,4,True,Yes,Yes,5/15,6,4,7.5,Right-handed,On your back,True,0,4
+Third Year,Yes,Data Science,True,3,False,Yes,Yes,11/30,3,1,7,Right-handed,On your back,False,2,3
+Second Year,No,"Data Science, rhetoric",False,2,True,Yes,Yes,5/14,9,20,7,Right-handed,On your right side,True,0,3
+Second Year,Yes,Political Science,True,3,True,Yes,Yes,12/24,7,6,7,Right-handed,On your right side,True,0,2
+Third Year,No,"Applied Math, Computer Science",False,2,False,Yes,Yes,12/30,3,3,6,Right-handed,On your right side,True,2,2
+Second Year,I don't know,"Business, Economics",True,3,True,Maybe,Yes,2/27,3,6,7,Right-handed,On your right side,False,2,3
+Second Year,Yes,Cognitive Science,True,3,False,Yes,Yes,5/31,4,4,7,Right-handed,On your right side,True,2,2
+Third Year,Yes,Cognitive Science,False,1,True,Yes,Yes,1/30,6,3,9,Right-handed,On your left side,False,9,3
+First Year,No,Data Science,True,2,False,Yes,Yes,8/2,4,5,7,Right-handed,On your right side,False,0,2
+Second Year,No,"Business, Economics",False,2,False,Yes,Yes,3/24,8,20,8,Right-handed,On your right side,False,0,3
+Third Year,Yes,Media Studies,False,1,True,Yes,Yes,1/20,4,4,7,Right-handed,On your left side,True,3,2
+First Year,Yes,Civil Engineering,True,2,False,Yes,Yes,9/20,7,7,7,Right-handed,On your back,True,0,4
+First Year,No,Data Science,True,2,True,Yes,Yes,3/23,5,5,8,Right-handed,On your stomach,False,0,3
+First Year,No,Data Science,False,2,True,Yes,Yes,8/12,4,5,6.5,Right-handed,On your right side,False,0,3
+First Year,No,Data Science,True,4,True,Yes,Yes,6/6,7,8,7,Right-handed,On your left side,True,0,3
+Third Year,Yes,"Mathematics, Statistics",False,4,True,Yes,Yes,7/2,5,2,8,Right-handed,On your back,False,0,3
+Third Year,No,"Molecular and Cell Biology, Public Health",True,3,True,Yes,Yes,2/16,4,15,7,Right-handed,On your left side,False,6,1
+Third Year,No,"Data Science, Physics",True,4,True,Yes,Yes,6/24,5,2,8,Left-handed,On your stomach,True,1,3
+Third Year,I don't know,Civil Engineering,True,4,False,Yes,Yes,6/26,7,2,8,Right-handed,On your back,True,2,1
+First Year,No,"Applied Math, Data Science",True,3,True,Yes,Yes,7/23,8,10,6.5,Right-handed,On your left side,False,0,3
+First Year,No,Data Science,True,3,True,Yes,Yes,6/9,8,10,7.5,Right-handed,On your right side,True,0,3
+Second Year,No,Neuroscience,False,1,True,Yes,No,8/29,6,6,7,Right-handed,On your back,True,2,2
+First Year,Yes,Civil Engineering,False,2,False,Maybe,Yes,8/24,3,10,7,Right-handed,On your right side,True,5,2
+First Year,No,Civil Engineering ,False,1,False,Yes,I don't know,6/12,7,7,6,Right-handed,On your right side,True,0,1
+Fourth Year,No,Political Science,True,2,False,No,No,10/8,9,10,7,Right-handed,On your stomach,True,1,2
+Second Year,Yes,"Political Science, Film and Media",False,1,True,Yes,Yes,5/26,7,3,5,Right-handed,On your stomach,True,5,3
+Fourth Year,No,History,False,1,False,No,No,5/15,6,15,8,Right-handed,On your left side,False,0,2
+First Year,I don't know,Civil Engineering,True,2,True,Yes,Yes,4/2,4,8,8,Right-handed,On your right side,False,0,4
+Second Year,I don't know,Applied Math,True,2,False,Yes,No,10/19,3,3,7,Right-handed,On your left side,True,1,3
+Second Year,No,Global Studies ,False,2,False,Yes,Yes,7/6,6,7,8,Right-handed,On your left side,True,1,2
+Third Year,No,Political Science,False,2,False,Yes,Yes,5/12,3,2,6,Right-handed,On your left side,True,0,2
+Third Year,No,EECS,True,5,True,Yes,Yes,11/29,9,10,8,Right-handed,On your left side,True,2,4
+First Year,No,Civil Engineering,True,3,False,Yes,Yes,9/4,8,12,6.5,Right-handed,On your right side,True,1,1
+Second Year,Yes,"Data Science, Media Studies",False,1,True,Yes,Yes,11/9,5,20,7,Left-handed,On your stomach,True,0,2
+First Year,No,"Data Science, Economics, Statistics",False,2,True,Yes,Yes,10/15,6,10,7.5,Right-handed,On your back,True,0,8
+Second Year,No,Environmental Economics and Policy,False,2,True,Yes,Yes,4/19,7,4,6,Right-handed,On your back,False,2,4
+First Year,No,Civil Engineering,False,1,False,Yes,Yes,8/17,8,5,7,Right-handed,On your stomach,True,6,2
+First Year,No,"Data Science, Economics",True,2,False,Yes,Yes,6/15,7,7,7,Right-handed,On your right side,False,2,3
+First Year,Yes,Civil Engineering,True,2,False,Yes,Yes,8/11,5,5,8,Left-handed,On your right side,True,5,2
+Third Year,Yes,EEP,False,1,True,Yes,Yes,3/16,4,2,6,Right-handed,On your right side,True,1,3
+First Year,No,Economics,False,2,True,Yes,No,3/12,6,5,8,Right-handed,On your right side,True,4,1
+Second Year,I don't know,Business,False,1,True,Yes,Yes,12/9,10,10,7,Right-handed,On your stomach,False,8,2
+First Year,No,EECS,True,5,True,Yes,Yes,1/25,7,7,7,Right-handed,On your back,True,0,2
+Second Year,Yes,Political Science,False,2,False,Yes,Yes,7/20,3,4,6,Right-handed,On your right side,True,2,3
+First Year,Yes,Data Science,False,3,True,Yes,Yes,11/24,7,5,7,Right-handed,On your left side,False,0,3
+First Year,I don't know,Applied Math,True,3,True,Yes,Yes,3/22,5,3,8,Right-handed,On your back,False,0,4
+Fourth Year,I don't know,Media Studies,False,3,True,Maybe,Yes,3/8,6,6,8,Right-handed,On your right side,True,0,2
+Fourth Year,No,Media Studies,False,1,False,Yes,Yes,6/5,4,2,6,Right-handed,On your right side,True,0,3
+Fourth Year,No,Cognitive Science,True,2,True,Yes,No,3/21,6,3,8,Right-handed,On your stomach,True,8,2
+Third Year,Yes,Cognitive Science,True,4,True,Yes,Yes,1/28,6,3,7,Right-handed,On your back,True,0,5
+Third Year,No,Public Health,True,1,True,Yes,Yes,10/3,3,3,7,Right-handed,On your back,True,0,2
+Second Year,No,"Mathematics, Physics",True,5,True,Yes,Yes,3/25,3,4,6,Right-handed,On your left side,True,2,2
+First Year,No,Neuroscience,True,3,True,Yes,No,9/15,4,8,8,Right-handed,On your stomach,False,0,7
+First Year,No,"Data Science, Economics, Molecular and Cell Biology",True,4,False,Yes,Yes,4/29,8,8,7,Right-handed,On your left side,True,2,3
+First Year,No,Civil Engineering,True,2,False,Yes,Yes,12/1,4,3,7,Right-handed,On your left side,True,2,2
+First Year,No,"Computer Science, Data Science",True,4,True,Yes,Yes,5/22,4,3,6,Right-handed,On your stomach,False,0,2
+Second Year,No,Cognitive Science,False,1,False,Yes,Yes,11/28,3,5,6,Right-handed,On your left side,True,0,3
+First Year,Yes,"Data Science, Political Science",True,3,False,Yes,Yes,6/10,8,4,6,Right-handed,On your stomach,True,2,3
+First Year,I don't know,Civil Engineering,False,3,False,Yes,Yes,10/22,3,2,7,Right-handed,On your back,False,0,3
+Third Year,No,Applied Math,True,3,True,Yes,No,3/7,4,8,6,Right-handed,On your right side,True,2,3
+Second Year,Yes,Cognitive Science,False,2,True,Yes,No,11/14,8,6,4,Right-handed,On your back,False,12,5
+Fourth Year,No,Statistics,True,3,True,Yes,Yes,1/18,2,2,6,Right-handed,On your stomach,True,0,3
+Second Year,Yes,"Data Science, Sociology",False,1,False,Yes,Yes,3/14,4,7,9,Right-handed,On your stomach,True,2,2
+First Year,No,"Data Science, Economics",False,2,True,Yes,Yes,2/4,7,8,8,Right-handed,On your left side,True,2,2
+First Year,No,Data Science,True,4,True,Yes,Yes,10/20,9,8,7,Right-handed,On your right side,True,4,4
+Second Year,Yes,"Urban Studies, Ethnic Studies",False,1,False,Yes,Yes,3/21,5,4,8,Right-handed,On your left side,True,2,2
+Fourth Year,No,Nutritional Science,False,2,True,Yes,No,6/24,2,9,9,Right-handed,On your left side,False,0,2
+Third Year,No,Statistics,True,3,True,Yes,Yes,6/8,3,7,7,Right-handed,On your back,False,0,1
+First Year,No,Political Economy,False,1,True,Yes,Yes,11/5,7,10,8,Right-handed,On your right side,True,5,3
+First Year,Yes,Statistics,False,1,True,Yes,Yes,7/30,4,5,6,Right-handed,On your right side,True,0,2
+Second Year,No,Nutritional Sciences,True,3,True,Yes,I don't know,7/5,8,5,8,Right-handed,On your right side,True,2,2
+First Year,No,Cognitive Science,False,2,False,Yes,Yes,8/17,6,6,8,Right-handed,On your left side,True,5,2
+First Year,I don't know,Civil Engineering,True,2,False,Yes,Yes,8/8,5,4,7,Right-handed,On your left side,True,0,4
+First Year,No,Civil Engineering,True,2,False,Yes,Yes,6/16,3,5,7,Right-handed,On your left side,False,0,6
+Second Year,No,"Molecular and Cell Biology, Neuroscience",False,2,False,Yes,Yes,3/7,3,3,6,Left-handed,On your left side,False,0,1
+Third Year,Yes,Public Health,False,1,False,Yes,Yes,5/10,4,3,7,Right-handed,On your back,True,4,2
+Second Year,Yes,"Political Economy, Statistics",True,3,False,Yes,Yes,1/11,4,10,8,Right-handed,On your back,True,0,7
+Third Year,I don't know,Civil Engineering,True,3,False,Yes,Yes,6/17,3,2,8,Right-handed,On your right side,True,0,2
+Second Year,No,Undecided,True,3,True,Yes,Yes,2/5,2,2,9,Right-handed,On your right side,True,4,3
+First Year,No,Civil Engineering,True,3,False,Yes,Yes,3/10,4,3,7,Left-handed,On your left side,False,0,3
+Second Year,No,Physics,True,2,True,Yes,No,8/26,10,2,7,Right-handed,On your left side,True,0,3
+First Year,I don't know,Data Science,False,1,False,Yes,Yes,6/19,7,8,7,Right-handed,On your right side,True,7,5
+Second Year,No,Computer Science,True,4,True,Yes,No,5/11,4,5,8,Right-handed,On your back,True,0,3
+First Year,I don't know,"Cognitive Science, Data Science",True,3,True,Yes,Yes,2/6,8,6,7,Right-handed,On your back,True,2,3
+Second Year,No,Public Health,False,1,False,Yes,Yes,1/8,4,6,7,Right-handed,On your right side,False,2,3
+First Year,No,Cognitive Science,True,2,False,Yes,Yes,1/29,3,4,7,Right-handed,On your left side,True,2,2
+Third Year,Yes,Sociology,False,1,True,Maybe,I don't know,4/12,7,5,7,Right-handed,On your right side,True,4,2
+First Year,Yes,Civil Engineering,False,3,False,Yes,Yes,9/30,6,4,7,Right-handed,On your right side,True,2,1
+Fifth Year or above,Yes,Sociology,False,3,False,Yes,Yes,11/13,5,3,8,Right-handed,On your right side,False,3,2
+Second Year,No,Sustainable Environmental Design,True,3,True,Yes,Yes,4/21,4,4,8,Right-handed,On your left side,True,5,4
+First Year,No,EECS,True,3,False,Yes,No,8/14,4,6,7,Right-handed,On your right side,False,0,5
+First Year,No,Data Science,True,3,False,Maybe,Yes,3/3,6,5,9.5,Right-handed,On your back,True,0,3
+First Year,I don't know,Data Science,True,4,False,Yes,Yes,6/5,4,3,7,Right-handed,On your right side,False,2,3
+First Year,No,Cognitive Science,True,3,False,Yes,Yes,9/30,9,7,7,Right-handed,On your right side,False,2,3
+Third Year,No,Economics,False,3,True,Yes,Yes,11/24,6,8,10,Left-handed,On your left side,True,9,1
+Third Year,Yes,Statistics,True,1,True,Yes,Yes,6/19,5,4,7,Right-handed,On your back,False,0,3
+First Year,Yes,"Data Science, Economics",False,1,False,Maybe,Yes,5/20,7,10,7,Right-handed,On your right side,True,7,3
+Third Year,No,Psychology,False,3,True,Yes,No,4/5,6,10,7,Right-handed,On your left side,True,0,2
+Second Year,No,"Data Science, Physics",True,4,True,Yes,Yes,12/6,7,10,7,Right-handed,On your stomach,True,0,2
+Second Year,Yes,"Molecular and Cell Biology, Public Health",False,1,True,Yes,Yes,2/2,4,5,7,Right-handed,On your left side,False,2,3
+First Year,I don't know,Civil Engineering,False,1,False,Yes,Yes,1/11,6,4,7,"Left, now becoming right",On your back,False,0,1
+First Year,Yes,"Business, Data Science",True,3,True,Yes,Yes,10/26,8,12,6,Right-handed,On your right side,False,0,3
+Third Year,No,Computer Science,True,5,True,Yes,Yes,2/16,3,5,7,Right-handed,On your left side,False,0,3
+First Year,Yes,Statistics,False,1,True,Yes,Yes,5/2,7,8,8,Left-handed,On your stomach,True,2,3
+First Year,I don't know,"Applied Math, Statistics",True,2,True,Yes,Yes,12/22,5,5,6,Right-handed,On your back,False,0,3
+Third Year,No,Political Science,False,2,False,Yes,Yes,6/22,9,6,8,Right-handed,On your stomach,True,0,3
+First Year,I don't know,Data Science,False,3,False,Yes,Yes,7/25,4,5,6,Right-handed,On your right side,False,2,2
+Third Year,Yes,Business,False,1,True,Yes,Yes,2/11,6,3,7,Left-handed,On your right side,False,0,3
+Second Year,No,Psychology,False,1,True,Yes,Yes,4/15,8,8,7,Left-handed,On your right side,False,2,1
+First Year,No,Business,True,3,True,Yes,Yes,6/13,8,20,6,Right-handed,On your left side,False,0,3
+Second Year,No,sociology,False,1,False,Yes,Yes,3/23,7,3,7,Left-handed,On your back,False,0,3
+First Year,No,Data Science,True,3,True,Yes,Yes,2/23,7,16,6,Right-handed,On your right side,True,4,4
+Third Year,Yes,Public Health,False,1,False,Yes,Yes,12/27,7,20,8,Right-handed,On your right side,True,16,3
+First Year,Yes,"Data Science, Undecided, Music",True,2,False,Yes,Yes,9/29,8,12,8,Right-handed,On your stomach,False,0,3
+First Year,No,Data Science,True,3,True,Yes,Yes,12/9,7,3,6,Right-handed,On your left side,False,4,3
+First Year,No,"Data Science, Economics",True,3,True,Yes,Yes,3/12,6,15,8,Right-handed,On your stomach,True,5,2
+First Year,No,Data Science,True,4,True,Yes,Yes,9/7,4,8,7,Left-handed,On your left side,False,0,1
+First Year,I don't know,Civil Engineering,True,3,False,Yes,Yes,9/4,4,7,6,Right-handed,On your right side,False,2,2
+First Year,No,Civil Engineering,False,2,False,Yes,Yes,8/25,7,7,8,Left-handed,On your left side,True,0,2
+First Year,No,Data Science,True,4,True,Yes,Yes,10/23,7,10,7,Right-handed,On your back,False,0,2
+Third Year,Yes,Psychology,False,2,False,Yes,Yes,6/11,6,15,6,Right-handed,On your left side,True,2,5
+Second Year,No,Business,False,1,True,Yes,Yes,1/5,7,10,8,Right-handed,On your right side,True,2,2
+Third Year,I don't know,Applied Math,False,1,False,Yes,Yes,10/8,4,4,7,Right-handed,On your right side,False,0,2
+First Year,Yes,"Data Science, Undecided, Currently in Data Science, switching to Sociology",False,1,False,Yes,Yes,4/25,6,4,7,Right-handed,On your right side,False,4,3
+Second Year,I don't know,Physics,False,2,False,Yes,No,11/30,3,20,5,Right-handed,On your left side,True,3,3
+First Year,No,Computer Science,True,4,True,Yes,I don't know,5/9,9,10,8,Right-handed,On your back,False,0,3
+Second Year,No,"Cognitive Science, Data Science",True,3,True,Yes,Yes,12/6,4,5,8,Right-handed,On your left side,False,4,4
+First Year,Yes,Data Science,True,2,True,Yes,Yes,5/20,6,12,7,Right-handed,On your back,True,2,2
+First Year,No,"Cognitive Science, Neuroscience",True,2,False,Yes,Yes,9/10,4,7,7,Right-handed,On your stomach,True,2,3
+First Year,No,Statistics,True,2,True,Yes,Yes,9/6,7,8,7,Right-handed,On your back,False,2,2
+Third Year,Yes,Cognitive Science,False,2,True,Yes,Yes,12/8,6,5,7,Right-handed,On your stomach,True,5,3
+Second Year,No,Public Health,False,1,True,Yes,Yes,9/18,8,6,7,Right-handed,On your right side,False,0,4
+First Year,No,"Business, Data Science",False,1,True,Yes,Yes,12/20,8,20,7,Right-handed,On your right side,True,0,2
+Second Year,No,"Media Studies, Political Science",False,1,True,Yes,Yes,8/24,9,10,6,Right-handed,On your right side,True,2,2
+First Year,No,Economics,True,3,False,Yes,Yes,2/13,7,3,7,Right-handed,On your stomach,True,0,3
+Third Year,Yes,EECS,True,5,False,Yes,Yes,4/2,8,2,9,Right-handed,On your left side,True,0,4
+Third Year,No,Civil Engineering ,True,2,False,Yes,Yes,8/5,4,4,7,Right-handed,On your left side,False,0,3
+Third Year,No,Civil Engineering,True,2,False,Yes,Yes,4/29,3,3,6,Left-handed,On your back,False,0,3
+Third Year,Yes,EECS,True,4,True,Yes,Yes,11/27,6,3,7,Right-handed,On your left side,False,5,6
+First Year,No,Data Science,True,4,True,Yes,Yes,11/8,8,10,7,Right-handed,On your back,True,0,4
+First Year,Yes,EECS,False,2,True,Yes,I don't know,1/6,5,4,7,Right-handed,On your left side,True,0,3
+First Year,No,Applied Math,False,3,True,Yes,Yes,3/1,8,6,7,Right-handed,On your right side,False,0,3
+Third Year,I don't know,Data Science,True,2,True,Yes,Yes,5/30,4,8,6,Right-handed,On your stomach,True,0,2
+Second Year,Yes,Legal Studies and Astrophysics,False,2,False,Yes,Yes,12/9,7,5,5,Right-handed,On your stomach,True,11,2
+Second Year,I don't know,"Economics, Statistics",False,1,False,Yes,Yes,5/19,3,2,7,Right-handed,On your back,False,0,2
+Third Year,No,"Applied Math, Data Science",False,3,False,Yes,Yes,10/14,6,6,5.5,Right-handed,On your back,False,0,2
+First Year,Yes,Data Science,False,1,False,Yes,Yes,11/9,5,7,4,Right-handed,On your left side,True,0,4
+First Year,I don't know,Data Science,True,3,False,Yes,Yes,3/1,4,3,6,Right-handed,On your right side,False,4,2
+Graduate Student,No,Mechanical Engineering,False,4,False,Yes,I don't know,2/18,8,10,8,Right-handed,On your left side,False,0,2
+First Year,No,"Cognitive Science, Psychology",False,1,False,Yes,Yes,7/31,2,3,5,Right-handed,On your left side,True,2,2
+First Year,No,Statistics,True,2,True,Yes,Yes,12/13,7,1,6,Right-handed,On your right side,True,0,5
+Third Year,No,NST,False,1,False,Yes,Yes,12/10,7,8,7,Right-handed,On your left side,True,4,3
+First Year,No,"Business, IEOR",False,3,False,Yes,Yes,4/5,6,20,6,Right-handed,On your right side,True,0,2
+Third Year,No,Data Science,False,2,False,Yes,Yes,3/31,4,3,6,Right-handed,On your back,False,3,3
+First Year,I don't know,Molecular and Cell Biology,False,3,False,Yes,Yes,2/23,3,9,7.5,Right-handed,On your back,False,0,5
+Third Year,Yes,Engineering,True,3,False,Yes,Yes,6/29,5,5,8,Right-handed,On your back,True,0,2
+Second Year,No,Data Science,True,2,True,Yes,No,11/23,2,4,5,Left-handed,On your left side,True,3,3
+Second Year,No,Neuroscience,False,1,True,Yes,Yes,9/15,6,7,6,Right-handed,On your left side,True,5,3
+Second Year,No,Economics,False,1,False,Yes,Yes,9/28,4,4,7,Right-handed,On your back,False,7,5
+First Year,No,Business,False,2,False,Yes,Yes,8/28,7,10,7,Right-handed,On your left side,True,4,3
+Third Year,No,Computational Chemistry,True,4,True,Yes,Yes,1/19,4,12,6,Right-handed,On your right side,True,2,7
+First Year,No,Data Science,True,4,True,Yes,Yes,1/23,6,5,8,Right-handed,On your right side,True,0,2
+Fourth Year,No,"Economics, Psychology",False,3,True,Maybe,No,5/5,9,7,6.5,Right-handed,On your stomach,True,4,3
+First Year,No,Computer Science,True,3,False,Yes,Yes,9/1,6,4,7,Right-handed,On your back,True,2,3
+First Year,No,Business,False,1,True,Yes,Yes,11/3,9,20,6,Right-handed,On your back,True,2,2
+Third Year,Yes,Data Science,True,2,False,Yes,Yes,3/8,7,3,7,Right-handed,On your left side,False,2,2
+Second Year,No,"Applied Math, Computer Science, Data Science",True,4,True,Yes,Yes,9/22,5,3,8,Right-handed,On your back,True,0,2
+First Year,I don't know,Data Science,True,4,True,Yes,Yes,2/27,4,4,8,Right-handed,On your right side,False,2,3
+First Year,Yes,Data Science,True,4,True,Yes,Yes,3/13,7,10,6,Right-handed,On your right side,False,4,2
+First Year,No,Data Science,True,5,True,Yes,Yes,11/23,3,5,7,Right-handed,On your back,True,0,3
+Graduate Student,Yes,Molecular and Cell Biology,True,2,False,Yes,No,4/14,6,2,8,Right-handed,On your stomach,False,0,4
+Third Year,No,"Applied Math, Data Science",True,3,True,Yes,Yes,9/26,6,5,7,Right-handed,On your back,False,0,2
+First Year,No,Data Science,True,3,True,Yes,Yes,5/24,6,8,7,Right-handed,On your back,False,2,2
+First Year,I don't know,Business,True,3,False,Yes,Yes,2/22,5,5,8,Right-handed,On your stomach,False,0,2
+Second Year,Yes,Legal Studies ,False,2,False,Yes,Yes,9/7,5,5,8,Left-handed,On your right side,True,0,2
+Second Year,Yes,"Public Health, Legal Studies",False,2,True,Yes,Yes,6/22,4,4,7.5,Right-handed,On your stomach,True,6,5
+First Year,No,Data Science,True,3,True,Yes,Yes,5/1,2,3,6,Right-handed,On your stomach,False,1,4
+First Year,No,"Data Science, Economics",True,3,True,Yes,Yes,8/3,8,3,4,Right-handed,On your left side,True,0,3
+First Year,No,Data Science,True,2,True,Yes,Yes,4/28,7,5,6,Right-handed,On your left side,False,4,1
+Third Year,Yes,Environmental Economics & Policy,False,1,False,Yes,Yes,1/4,4,6,7,Right-handed,On your left side,True,0,3
+First Year,No,Civil Engineering,True,4,False,Yes,Yes,9/22,7,10,7.5,Right-handed,On your left side,True,0,2
+First Year,No,"Computer Science, Data Science",True,4,True,Yes,Yes,9/12,7,10,8,Right-handed,On your right side,True,2,4
+Second Year,Yes,Public Health,False,1,False,Yes,Yes,4/13,5,3,7,Right-handed,On your right side,True,2,2
+First Year,No,Statistics,False,1,True,Yes,Yes,12/30,3,5,7,Left-handed,On your right side,False,0,2
+Third Year,Yes,Cognitive Science,True,2,True,Yes,Yes,4/15,6,3,6,Right-handed,On your back,True,2,1
+Third Year,Yes,"Psychology, Public Health",True,3,True,Yes,Yes,9/11,4,6,6,Right-handed,On your right side,False,2,2
+Third Year,I don't know,Civil Engineering,False,2,True,Yes,Yes,7/13,4,3,7.5,Right-handed,On your right side,False,0,2
+Third Year,Yes,"Applied Math, Statistics",True,3,True,Yes,Yes,2/21,2,1,8,Left-handed,On your right side,True,0,3
+First Year,No,"Cognitive Science, Data Science",True,2,True,Yes,Yes,4/29,7,15,6,Right-handed,On your back,True,4,3
+First Year,No,Pre LSBE (bio and business),True,3,False,Yes,Yes,10/20,9,10,7,Right-handed,On your right side,True,0,2
+First Year,No,Applied Math,True,4,True,Yes,Yes,4/3,4,12,8,Right-handed,On your right side,True,0,2
+Second Year,Yes,Political Science,False,3,True,Yes,Yes,4/23,4,4,6,Right-handed,On your left side,True,3,2
+Second Year,No,"Business, Data Science",False,1,False,Yes,Yes,5/31,8,10,8,Left-handed,On your right side,True,8,1
+First Year,No,Industrial Engineering and Operations Research,True,3,True,Yes,Yes,6/4,5,10,7,Right-handed,On your back,False,2,3
+Second Year,Yes,"Business, Interdisciplinary Studies",False,1,True,Yes,Yes,1/21,4,5,7,Right-handed,On your right side,True,2,1
+Third Year,No,Public Health,False,1,True,Yes,Yes,7/21,7,8,5.5,Right-handed,On your right side,True,9,4
+Second Year,No,Cognitive Science,True,3,True,Yes,Yes,9/26,9,10,8,Right-handed,On your stomach,True,3,6
+Second Year,No,"Business, Molecular and Cell Biology",False,1,True,Yes,Yes,1/11,7,5,6,Right-handed,On your back,False,1,1
+First Year,Yes,Civil Engineering,False,1,False,No,Yes,1/22,7,5,8,Right-handed,On your left side,True,6,2
+Third Year,Yes,Molecular and Cell Biology,False,1,True,Yes,Yes,11/25,6,3,7,Left-handed,On your right side,True,5,3
+First Year,Yes,Civil Engineering,False,2,False,Yes,Yes,9/9,5,4,6,Right-handed,On your back,True,4,3
+Fourth Year,Yes,Public Health,False,1,True,Yes,Yes,10/28,5,4,6,Right-handed,On your stomach,True,4,6
+Fourth Year,No,Economics,False,1,True,Maybe,No,4/9,9,6,7,Right-handed,On your right side,True,7,6
+First Year,I don't know,Civil Engineering,True,2,False,Yes,Yes,1/25,4,3,8,Right-handed,On your left side,True,0,2
+Third Year,Yes,Political Economy,False,1,True,Maybe,Yes,6/22,5,11,7.5,Right-handed,On your left side,True,4,2
+Third Year,Yes,Statistics,False,3,True,Yes,Yes,1/14,7,4,8,Right-handed,On your back,True,0,1
+Second Year,No,Economics,True,4,True,Yes,Yes,10/8,7,5,6,Right-handed,On your back,False,0,2
+Third Year,No,"Psychology, philosophy",False,1,False,Yes,Yes,6/21,7,5,6,Right-handed,On your right side,True,2,2
+First Year,Yes,"EECS, Physics, Statistics",False,3,True,Yes,Yes,8/26,6,5,7,Left-handed,On your back,True,2,2
+Third Year,No,Civl Engineering,False,2,False,Yes,Yes,10/10,9,8,9,Right-handed,On your back,True,7,2
+Second Year,No,Media Studies,False,1,False,Yes,Yes,7/24,6,12,9,Right-handed,On your right side,True,3,2
+Second Year,Yes,"Molecular and Cell Biology, Public Health",False,1,False,Yes,Yes,7/8,8,5,6,Right-handed,On your right side,False,3,2
+First Year,No,Engineering Undeclared Discipline,True,4,True,Yes,Yes,8/16,7,4,8,Right-handed,On your back,True,2,3
+Fourth Year,No,Mathematics,True,3,False,Yes,No,6/10,6,2,8,Right-handed,On your stomach,False,0,2
+Second Year,Yes,"Business, Molecular and Cell Biology",False,1,False,Yes,Yes,1/17,7,7,7,Right-handed,On your right side,False,2,2
+Fourth Year,No,Cognitive Science,False,2,False,Yes,Yes,2/26,8,5,6,Right-handed,On your left side,True,15,5
+Fourth Year,Yes,Public Health,False,1,False,Yes,Yes,11/10,7,5,8,Right-handed,On your right side,True,7,2
+Second Year,No,Analytics,False,1,False,Yes,Yes,5/1,6,10,9,Right-handed,On your back,True,2,2
+Second Year,No,"Business, Data Science, Economics",True,3,True,Yes,Yes,6/30,6,5,7,Right-handed,On your back,True,4,3
+First Year,Yes,Civil Engineering,False,1,False,Yes,Yes,3/12,1,1,6,Right-handed,On your left side,True,4,3
+First Year,No,Statistics,True,3,True,Yes,Yes,11/16,7,4,7,Right-handed,On your back,True,0,3
+Third Year,No,Data Science,True,5,False,Yes,Yes,10/31,2,3,7,Left-handed,On your left side,True,0,2
+First Year,Yes,Civil Engineering,False,1,False,Yes,Yes,4/9,4,12,7,Right-handed,On your stomach,False,0,2
+Fourth Year,Yes,Applied Math,True,3,False,Yes,Yes,1/21,4,5,7,Right-handed,On your left side,False,0,2
+Third Year,No,"Sustainable Environmental Design, Environmental Economics and Policy",False,2,True,Yes,Yes,9/28,4,10,8,Right-handed,On your right side,True,0,1
+Second Year,No,Public Health,False,1,False,Yes,Yes,6/29,5,3,7.5,Right-handed,On your right side,False,2,4
+First Year,No,"Applied Math, Data Science",True,3,False,Yes,Yes,2/25,6,10,7,Right-handed,On your stomach,True,0,5
+Second Year,Yes,"Molecular and Cell Biology, Public Health",False,1,True,Yes,Yes,11/22,9,3,7,Right-handed,On your stomach,True,2,3
+Second Year,Yes,"Molecular and Cell Biology, Public Health",False,1,False,Maybe,Yes,1/4,7,3,6,Right-handed,On your left side,True,2,3
+First Year,No,"Data Science, Economics",True,3,True,Yes,Yes,8/17,6,10,8,Right-handed,On your right side,True,2,3
+First Year,No,Data Science,True,3,True,Yes,Yes,11/3,3,6,7,Right-handed,On your stomach,False,0,6
+Second Year,Yes,"Data Science, Physics, Astrophysics",True,5,False,Yes,Yes,10/27,9,3,7,Right-handed,On your right side,False,4,2
+Second Year,No,Economics,True,2,True,Yes,No,4/12,5,10,6,Right-handed,On your right side,False,0,3
+Second Year,No,Public Health,True,2,False,Yes,Yes,7/8,8,5,7,Right-handed,On your back,False,0,6
+Third Year,I don't know,Cognitive Science,True,2,True,Yes,Yes,3/12,8,7,7,Right-handed,On your back,True,2,2
+transfer first year,No,Civil Engineering,False,3,False,Yes,I don't know,2/2,6,3,6,Right-handed,On your back,False,1,3
+Second Year,No,Business,False,1,True,Yes,Yes,11/20,9,8,7,Right-handed,On your stomach,False,2,2
+First Year,No,Data Science,True,5,True,Yes,Yes,1/8,7,5,7.5,Right-handed,On your left side,True,0,3
+First Year,No,Business,True,3,False,Yes,Yes,4/13,6,10,5,Right-handed,On your back,False,0,5
+Fourth Year,Yes,Media Studies,False,3,False,Yes,Yes,11/9,8,7,8,Right-handed,On your right side,True,2,3
+Second Year,I don't know,"Cognitive Science, Sociology",False,2,False,Yes,Yes,4/30,7,7,7,Left-handed,On your stomach,False,4,6
+Second Year,Yes,Molecular and Cell Biology,False,1,False,Yes,Yes,5/15,3,5,7,Right-handed,On your left side,True,5,2
+Fourth Year,No,Media Studies,False,1,False,Maybe,Yes,11/8,6,10,7,Right-handed,On your right side,True,5,4
+Second Year,Yes,Undecided,True,3,False,Yes,Yes,9/6,6,9,6,Right-handed,On your back,True,4,4
+Second Year,No,Cognitive Science,False,1,True,Yes,Yes,3/24,6,5,6,Right-handed,On your left side,False,6,4
+Second Year,No,"Applied Math, Data Science",False,2,False,Yes,Yes,3/12,4,5,8,Right-handed,On your back,False,4,3
+Second Year,No,"Business, IEOR",True,3,True,Yes,Yes,8/18,6,20,7,Right-handed,On your right side,False,0,3
+Fourth Year,No,Applied Math,True,3,True,Yes,Yes,1/8,5,3,7,Right-handed,On your right side,False,2,3
+First Year,No,Civil Engineering,False,3,True,Yes,Yes,8/10,5,2,6,Right-handed,On your back,True,0,3
+Second Year,Yes,EEP,False,1,True,Yes,Yes,1/14,3,6,7,Right-handed,On your left side,True,0,2
+First Year,No,Molecular and Cell Biology,True,2,True,Yes,Yes,8/28,6,6,8,Right-handed,On your back,False,2,3
+First Year,I don't know,Civil Engineering,False,1,True,Yes,Yes,6/30,5,8,7,Left-handed,On your right side,False,8,3
+Second Year,No,Cognitive Science,False,1,True,Yes,Yes,5/2,8,5,9,Right-handed,On your right side,True,3,3
+First Year,Yes,legal studies,False,1,False,Maybe,Yes,12/19,9,7,7,Right-handed,On your back,True,7,7
+Third Year,Yes,Statistics,True,2,True,Yes,Yes,1/24,5,9,8,Right-handed,On your stomach,True,0,5
+First Year,Yes,Civil Eng,True,2,True,Yes,Yes,6/21,7,8,6,Right-handed,On your right side,False,0,4
+Second Year,No,Economics,True,2,True,Yes,Yes,8/3,7,10,7,Right-handed,On your left side,False,4,3
+Second Year,Yes,"Business, Data Science",False,1,False,Yes,Yes,12/10,6,8,6.5,Right-handed,On your right side,True,4,5
+First Year,No,Civil Engineering,False,2,True,Yes,Yes,4/6,7,15,9,Right-handed,On your left side,True,0,2
+Second Year,No,"Business, Data Science",False,1,True,Yes,Yes,9/16,4,7,8,Right-handed,On your left side,False,4,3
+First Year,Yes,Data Science,False,1,True,Yes,Yes,12/4,3,8,8,Right-handed,On your stomach,True,2,2
+First Year,I don't know,"Applied Math, Economics",True,4,False,Yes,I don't know,5/11,5,4,6,Right-handed,On your right side,False,2,3
+First Year,I don't know,Data Science,True,3,True,Yes,Yes,9/13,8,5,8,Right-handed,On your right side,False,2,2
+Third Year,Yes,Civil and Environmental Engineering,False,3,False,Yes,Yes,10/27,8,8,8,Right-handed,On your right side,True,0,3
+First Year,No,"Applied Math, Data Science",True,2,True,Yes,Yes,1/11,7,10,8,Right-handed,On your stomach,True,0,7
+First Year,Yes,Cognitive Science,False,1,True,Yes,No,3/28,8,5,8,Right-handed,On your left side,False,1,3
+Second Year,No,"Applied Math, Statistics",True,4,True,Yes,I don't know,11/4,5,10,8,Right-handed,On your stomach,False,0,2
+Second Year,No,Applied Math,True,4,False,Yes,Yes,8/5,7,7,7,Right-handed,On your left side,True,5,1
+First Year,No,"Business, want to pursue data science double major ",True,1,True,Yes,Yes,2/17,6,5,7.5,Right-handed,On your right side,False,0,2
+First Year,No,Cognitive Science,False,2,False,Yes,Yes,9/15,7,5,8,Right-handed,On your back,False,0,3
+First Year,I don't know,"Applied Math, Computer Science, Data Science, Economics, Statistics",False,1,True,Yes,Yes,7/29,3,3,7,Left-handed,On your back,True,0,4
+Third Year,No,"Data Science, Molecular and Cell Biology",False,1,True,Yes,Yes,9/28,1,5,10,Left-handed,On your left side,True,0,5
+Fourth Year,No,chemical engineering,True,1,False,Yes,Yes,1/24,5,5,7,Left-handed,On your back,True,6,2
+Fourth Year,Yes,Data Science,True,3,True,Yes,Yes,7/8,3,2,7,Right-handed,On your left side,True,0,2
+Second Year,No,Environmental Economics,True,2,False,Yes,Yes,3/10,8,6,7,Right-handed,On your right side,True,7,4
+Second Year,No,Computer Science,True,4,True,Yes,Yes,2/13,4,3,8,Right-handed,On your back,False,0,2
+Second Year,Yes,Data Science,False,3,False,Yes,Yes,5/13,7,2,7,Right-handed,On your left side,True,1,3
+First Year,Yes,Molecular and Cell Biology,False,1,False,No,Yes,2/16,7,4,6,Right-handed,On your back,True,2,2
+Fourth Year,Yes,"Psychology, Asian and Asian American Diaspora Studies",False,1,True,Maybe,No,8/26,7,5,7,Right-handed,On your back,True,7,2
+Third Year,Yes,Cognitive Science,True,3,False,Yes,Yes,9/16,6,2,7,Left-handed,On your stomach,False,2,2
+First Year,Yes,Civil Engineering,True,4,False,Yes,Yes,1/22,10,2,7,Right-handed,On your right side,True,0,2
+Third Year,No,Business,True,4,True,Yes,Yes,11/5,8,1,7,Right-handed,On your stomach,True,0,1
+First Year,Yes,"Data Science, Molecular and Cell Biology",True,2,True,Yes,Yes,10/22,3,3,7,Right-handed,On your left side,False,0,2
+Third Year,No,sociology,False,1,True,Yes,Yes,10/3,2,2,6,Right-handed,On your left side,False,0,5
+Second Year,I don't know,"Molecular and Cell Biology, Public Health",False,1,True,Yes,Yes,4/22,7,10,5,Right-handed,On your stomach,False,2,5
+Third Year,No,Chemical Engineering,True,4,True,Yes,Yes,5/15,4,8,7,Right-handed,On your left side,False,7,3
+Third Year,No,Data Science,True,3,True,Yes,Yes,1/9,7,4,7.5,Left-handed,On your left side,True,5,2
+Second Year,Yes,"Interdisciplinary Studies, Statistics",True,2,True,Yes,Yes,4/21,4,10,8,Right-handed,On your stomach,True,7,2
+Second Year,Yes,Political Science,False,1,True,Yes,Yes,9/2,5,8,5,Right-handed,On your left side,True,4,4
+Third Year,Yes,Industrial Engineering and Operations Research,False,3,False,Yes,Yes,6/1,9,10,8,Right-handed,On your back,True,4,4
+Third Year,I don't know,Cognitive Science,False,1,False,Yes,Yes,3/21,2,2,7,Right-handed,On your left side,True,0,2
+First Year,Yes,Data Science,False,3,False,Yes,Yes,1/31,4,6,6,Right-handed,On your left side,False,1,3
+Second Year,Yes,Data Science,False,3,False,Yes,Yes,8/3,8,5,6,Right-handed,On your back,False,0,2
+First Year,I don't know,Civil Engineering,False,2,False,Yes,Yes,4/2,7,5,8,Right-handed,On your right side,True,0,2
+Third Year,I don't know,Cognitive Science,True,2,True,Yes,Yes,3/29,8,5,7.5,Right-handed,On your back,True,2,4
+Fourth Year,Yes,Public Health,False,2,False,Yes,Yes,10/30,4,1,7,Right-handed,On your left side,False,2,2
+First Year,No,Data Science,True,1,True,Yes,Yes,10/3,5,4,6,Right-handed,On your back,False,0,2
+First Year,Yes,Civil Engineering,False,1,False,Yes,Yes,4/9,3,11,8,Right-handed,On your right side,True,1,3
+Second Year,Yes,Ethnic Studies,False,1,True,Yes,Yes,12/18,6,5,8,Right-handed,On your stomach,True,2,2
+First Year,No,Data Science,True,3,True,Yes,Yes,3/27,7,10,6,Right-handed,On your stomach,True,0,3
+Second Year,No,EECS,True,3,True,Yes,Yes,10/5,5,15,7,Right-handed,On your back,False,0,3
+Second Year,Yes,"Molecular and Cell Biology, Public Health",False,3,True,Yes,Yes,2/7,7,10,8,Right-handed,On your left side,False,0,2
+First Year,No,Business,True,3,True,Yes,Yes,3/22,9,8,7,Right-handed,On your stomach,False,2,3
+Second Year,Yes,Economics,False,2,True,Yes,Yes,2/17,6,7,7,Right-handed,On your right side,False,2,3
+First Year,Yes,Civil Engineering,False,1,False,Yes,Yes,7/27,8,10,6,Right-handed,On your back,True,2,3
+Third Year,No,Business,False,1,True,Yes,I don't know,8/21,3,4,6,Right-handed,On your stomach,False,1,2
+Third Year,Yes,Environmental Econ & policy,True,1,True,Yes,Yes,7/22,5,5,7,Right-handed,On your left side,False,2,3
+Second Year,Yes,Public Health,False,1,True,Yes,Yes,3/25,3,4,8,Right-handed,On your right side,False,0,2
+Third Year,No,Cognitive Science,False,1,True,Yes,Yes,3/28,6,5,7,Right-handed,On your stomach,False,4,12
+First Year,No,"Applied Math, Data Science",False,4,True,Yes,Yes,10/27,5,6,6.5,Right-handed,On your back,True,0,3
+First Year,No,Undecided,True,3,True,Yes,Yes,7/6,3,6,7,Right-handed,On your back,True,0,3
+Fourth Year,Yes,"Public Health, Interdisciplinary ",True,2,False,Yes,Yes,7/1,8,13,7,Right-handed,On your right side,True,1,2
+Second Year,No,Sociology,True,2,False,Yes,Yes,5/10,3,5,7,Right-handed,On your stomach,False,0,2
+Fourth Year,I don't know,Statistics,False,2,True,Yes,Yes,10/17,5,2,4,Ambi,On your right side,True,0,3
+First Year,Yes,Civil Engineering,False,2,False,Maybe,Yes,4/29,6,8,6,Right-handed,On your left side,True,2,4
+Third Year,No,"Data Science, Statistics",True,4,False,Yes,Yes,11/2,4,4,7,Right-handed,On your right side,False,0,4
+First Year,No,Physics,True,5,True,Yes,Yes,5/11,3,4,8,Left-handed,On your left side,True,0,2
+Third Year,No,Astrophysics,True,1,True,Yes,No,1/11,6,20,7,Left-handed,On your left side,True,8,3
+First Year,No,Civil Engineering,True,3,True,Yes,Yes,12/26,5,1,7,Right-handed,On your left side,True,2,3
+Third Year,Yes,Cognitive Science,False,2,False,Yes,Yes,7/23,8,4,6,Right-handed,On your stomach,True,7,4
+Third Year,I don't know,"Business, Data Science",True,3,True,Yes,Yes,8/10,4,6,7,Left-handed,On your back,False,0,4
+Third Year,Yes,"Data Science, Spanish",True,5,True,Yes,Yes,1/23,1,1,7,Right-handed,On your back,True,2,2
+Second Year,No,Cognitive Science,False,2,True,Yes,Yes,5/22,3,1,7,Right-handed,On your back,True,5,2
+First Year,Yes,Undecided,True,3,False,Yes,Yes,9/27,8,3,7,Right-handed,On your right side,False,0,2
+Fourth Year,Yes,"Data Science, Gender and Women Studies",True,3,False,Yes,Yes,12/7,10,5,8,Right-handed,On your stomach,True,10,5
+First Year,No,Media Studies,False,1,False,Yes,No,12/20,5,10,8,Right-handed,On your back,True,2,4
+Third Year,No,Applied Math,True,4,False,Yes,Yes,6/19,3,3,8,Right-handed,On your right side,False,0,2
+Second Year,Yes,Economics,False,1,False,Maybe,No,3/7,7,3,6,Right-handed,On your back,True,0,3
+First Year,No,Data Science,True,4,True,Yes,Yes,9/14,6,6,7,Right-handed,On your right side,True,1,5
+First Year,Yes,Data Science,True,2,False,Yes,Yes,1/6,8,5,6,Right-handed,On your right side,True,2,2
+Third Year,No,Data Science,True,3,True,Yes,Yes,3/13,8,50,7,Left-handed,On your right side,True,1,1
+Third Year,Yes,Public Health,True,3,False,Yes,Yes,5/3,7,6,9,Right-handed,On your right side,True,1,2
+First Year,Yes,Civil Engineering,True,3,False,Yes,Yes,4/9,7,4,6,Right-handed,On your stomach,True,0,3
+First Year,No,Data Science,True,4,True,Yes,Yes,9/7,8,3,7,Right-handed,On your right side,True,0,2
+First Year,No,"Data Science, Economics",True,4,False,Yes,Yes,7/12,7,15,8,Right-handed,On your left side,True,0,2
+Second Year,No,"Political Science, History",False,1,False,Yes,Yes,6/14,5,7,9,Right-handed,On your stomach,True,1,1
+Second Year,Yes,Public Health,False,3,True,Yes,Yes,2/2,6,2,6,Right-handed,On your back,True,2,3
+First Year,Yes,EECS,False,1,False,Yes,Yes,11/6,7,3,6,Right-handed,On your stomach,True,4,3
+First Year,I don't know,"Cognitive Science, Psychology, Politics, Philosophy, and Law",False,1,False,Yes,Yes,3/1,4,5,5,Right-handed,On your right side,True,7,5
+Second Year,Yes,Undecided,True,2,False,Yes,Yes,11/14,6,3,7,Right-handed,On your right side,True,2,3
+First Year,Yes,Civil Engineering,True,1,True,Yes,Yes,1/22,9,12,6,Right-handed,On your left side,True,27,6
+First Year,Yes,Mechanical Engineer,False,2,False,Yes,I don't know,3/4,6,8,6,Right-handed,On your stomach,True,0,2
+First Year,Yes,Civil Engineering,False,3,False,Yes,I don't know,8/3,10,10,7,Right-handed,On your stomach,True,4,4
+First Year,No,Undecided,False,1,False,Yes,Yes,10/16,7,10,8,Right-handed,On your stomach,True,3,4
+Fourth Year,Yes,Political Science,True,5,True,Yes,Yes,3/23,8,3,7,Right-handed,On your stomach,True,0,3
+Second Year,No,"Cognitive Science, Economics",False,1,True,Yes,Yes,1/12,3,10,6,Right-handed,On your right side,True,2,3
+First Year,No,Computer Science,True,2,True,Yes,Yes,3/28,3,1,7,Right-handed,On your back,False,0,1
+Fourth Year,No,"Cognitive Science, Data Science",True,2,True,Yes,Yes,8/20,6,6,6,Right-handed,On your right side,False,3,5
+First Year,No,Data Science,True,4,False,Yes,Yes,12/8,7,3,8,Right-handed,On your back,False,0,3
+First Year,Yes,Civil Engineering,False,2,True,Yes,Yes,6/11,4,5,8,Right-handed,On your right side,True,2,2
+Second Year,No,"Applied Math, Business",True,1,True,Yes,Yes,5/5,4,10,6,Right-handed,On your left side,False,0,3
+Second Year,Yes,"Computer Science, Data Science, Economics",True,4,True,Yes,Yes,3/19,7,3,9,Left-handed,On your left side,True,0,6
+Second Year,No,Undecided,True,3,False,Yes,Yes,10/31,8,6,10,Right-handed,On your right side,False,0,3
+First Year,Yes,Public Health,False,1,False,Yes,Yes,9/7,7,3,7,Right-handed,On your right side,True,6,2
+Second Year,No,Economics,True,3,False,Yes,Yes,11/17,5,5,7,Left-handed,On your back,False,4,5
+Second Year,No,Computer Science,True,5,True,Yes,Yes,9/2,8,10,7,Right-handed,On your right side,False,2,3
+Fourth Year,No,Business,False,1,False,Yes,No,12/7,6,5,6,Right-handed,On your right side,True,1,3
+Second Year,No,Public Health,False,1,False,Yes,Yes,10/17,8,3,8,Left-handed,On your left side,False,4,3
+Fourth Year,Yes,Media Studies,True,3,False,Yes,Yes,7/28,4,5,7,both,On your left side,False,4,3
+First Year,Yes,Data Science,True,1,True,Yes,Yes,5/6,7,7,7,Right-handed,On your left side,True,0,3
+Third Year,Yes,"Data Science, Media Studies",True,3,False,Yes,Yes,8/4,5,9,8,Right-handed,On your left side,False,2,3
+Third Year,I don't know,Data Science,True,5,True,Yes,Yes,11/6,10,3,7,Right-handed,On your right side,True,0,6
+Second Year,Yes,Computer Science,True,5,False,Yes,Yes,7/15,5,10,7,Right-handed,On your right side,False,2,3
+Third Year,Yes,Data Science,True,3,True,Yes,Yes,7/28,3,3,8,Right-handed,On your stomach,True,2,3
+Second Year,Yes,Molecular and Cell Biology,False,1,True,Yes,Yes,7/26,8,5,6,Left-handed,On your left side,True,2,2
+Second Year,Yes,Political Science,False,2,False,Yes,Yes,8/21,9,10,6,Right-handed,On your right side,True,2,6
+First Year,No,Civil Engineering,True,3,True,Yes,Yes,2/9,1,10,7,Right-handed,On your left side,False,0,4
+First Year,I don't know,Data Science,True,4,True,Yes,Yes,12/2,4,7,7,Right-handed,On your back,False,0,3
+Second Year,No,"Economics, Political Economy",False,2,True,Yes,Yes,7/9,1,2,7,Right-handed,On your right side,False,0,0
+Second Year,I don't know,Chemistry,True,3,False,Yes,No,8/19,3,10,7,Right-handed,On your right side,True,0,3
+Fourth Year,No,ChemE,True,3,False,Yes,Yes,7/3,5,3,5,Right-handed,On your left side,False,0,7
+Third Year,Yes,film,False,1,False,Yes,I don't know,3/8,3,2,6,Right-handed,On your left side,True,0,2
+Second Year,Yes,Neuroscience,False,1,True,Yes,Yes,12/2,3,5,7,Right-handed,On your left side,True,4,1
+Fourth Year,Yes,"Cognitive Science, Computer Science, Data Science",True,5,True,Yes,Yes,3/9,8,7,7,Left-handed,On your left side,False,2,3
+Second Year,Yes,Civil Engineer,False,1,False,Maybe,Yes,1/4,3,1,7,Right-handed,On your left side,True,2,2
+Third Year,I don't know,Data Science,True,3,True,Yes,Yes,12/19,6,2,6,Left-handed,On your stomach,False,0,3
+Second Year,Yes,Molecular and Cell Biology,False,1,False,Yes,Yes,5/3,6,3,7,Right-handed,On your back,True,4,3
+Third Year,Yes,Environmental Economics & Policy,False,1,True,Yes,Yes,6/17,8,10,7,Right-handed,On your left side,True,0,4
+First Year,Yes,EECS,True,3,False,Yes,Yes,9/19,7,20,8,Left-handed,On your stomach,True,0,2
+Second Year,I don't know,Mathematics,True,3,False,Yes,No,3/20,8,8,7,Right-handed,On your left side,True,0,2
+First Year,No,Data Science,True,3,True,Yes,Yes,5/12,7,10,7,Right-handed,On your right side,False,2,3
+Second Year,No,"Data Science, Materials Science and Engineering",True,4,False,Yes,Yes,8/15,8,7,6,Left-handed,On your stomach,False,1,3
+First Year,No,Data Science,True,5,True,Yes,Yes,7/30,7,4,7,Right-handed,On your left side,True,0,2
+Third Year,Yes,"Public Health, Society and Environment ",False,1,True,Yes,Yes,3/12,6,6,7,Right-handed,On your left side,True,2,6
+Third Year,I don't know,Civil Engineering,True,3,True,Yes,Yes,5/25,7,4,7,Right-handed,On your right side,False,0,2
+Fourth Year,Yes,Applied Math,False,2,True,Yes,Yes,6/22,6,4,8,Right-handed,On your left side,False,2,2
+Second Year,I don't know,Computer Science,True,5,False,Yes,Yes,2/23,8,20,8,Right-handed,On your back,True,0,3
+Second Year,No,"Data Science, Neuroscience",True,5,True,Yes,Yes,9/1,2,3,6,Left-handed,On your back,False,0,4
+Second Year,Yes,Environmental Science,False,2,True,Yes,Yes,4/12,5,9,7,Right-handed,On your back,False,2,2
+Third Year,Yes,Cognitive Science,True,3,True,Yes,Yes,12/29,5,10,6,Right-handed,On your right side,False,4,2
+Second Year,I don't know,Media Studies,False,2,True,Yes,Yes,9/27,7,10,4,Right-handed,On your stomach,True,2,3
+First Year,No,"Economics, Global Studies",True,4,True,Yes,Yes,2/6,7,10,7,Right-handed,On your back,False,0,4
+First Year,Yes,I'm not undeclared,False,3,False,Yes,Yes,10/30,8,5,6,Right-handed,On your right side,True,2,2
+First Year,No,"Business, Data Science",True,2,True,Yes,Yes,2/28,6,8,7,Right-handed,On your right side,False,0,3
+Third Year,No,Applied Math,False,4,True,Yes,Yes,2/10,3,5,7,Right-handed,On your right side,False,0,4
+Fourth Year,No,geography,False,1,False,Maybe,No,1/14,5,2,7,Left-handed,On your left side,True,0,3
+Third Year,Yes,Data Science,True,3,False,Yes,Yes,5/10,6,6,7.5,Right-handed,On your left side,False,4,5
+Fifth Year or above,Yes,IEOR,True,5,True,Yes,Yes,12/5,8,5,7.55,Right-handed,On your left side,False,0,3
+Fourth Year,Yes,Political Economy,False,1,True,Maybe,Yes,6/27,2,3,5,Right-handed,On your back,False,0,3
+Second Year,Yes,Economics,False,2,True,Yes,Yes,1/15,10,6,6,Right-handed,On your stomach,True,5,2
+Third Year,No,Molecular and Cell Biology,False,1,True,Yes,No,4/2,6,2,6,Right-handed,On your back,True,2,2
+Third Year,No,"Economics, EEP",False,1,True,Yes,Yes,2/1,8,10,7,Right-handed,On your left side,True,0,5
+First Year,I don't know,Economics,True,3,True,Yes,Yes,4/19,7,20,9,Right-handed,On your right side,True,0,1
+First Year,No,civil engineering,False,2,False,Yes,Yes,6/22,8,8,8,Right-handed,On your stomach,True,8,2
+Second Year,Yes,Psychology,False,1,False,Yes,Yes,3/14,3,3,8,Right-handed,On your right side,True,8,4
+Third Year,I don't know,Political Economy,False,1,False,Yes,Yes,11/10,5,2,8,Left-handed,On your right side,True,0,2
+Second Year,I don't know,Public Health,False,3,False,Yes,Yes,11/9,8,5,7.5,Right-handed,On your back,True,2,1
+Fourth Year,Yes,Media Studies,False,1,True,Yes,Yes,9/30,6,1,7,Right-handed,On your left side,True,5,2
+Second Year,No,Political Science,True,2,True,Yes,Yes,12/20,9,6,6,Left-handed,On your back,True,0,3
+Second Year,No,Computer Science,True,5,False,Yes,I don't know,2/26,4,2,6,Right-handed,On your stomach,True,0,3
+Third Year,Yes,Civil Engineering,True,5,False,Yes,Yes,4/17,2,4,8,Right-handed,On your stomach,True,7,5
+Second Year,Yes,Data Science,True,3,False,Yes,Yes,4/29,6,3,7,Right-handed,On your right side,True,2,3
+Second Year,I don't know,"Cognitive Science, Political Science",False,1,False,Yes,Yes,4/11,7,10,7,Right-handed,On your stomach,True,3,3
+Third Year,No,Data Science,True,4,True,Yes,Yes,1/1,6,3,7,Right-handed,On your left side,False,2,2
+Third Year,No,Mathematics,True,3,False,Yes,Yes,4/7,6,3,8,Right-handed,On your stomach,True,0,2
+Second Year,Yes,Public Health,False,2,False,Yes,Yes,11/8,6,8,6,Right-handed,On your left side,False,1,2
+Third Year,Yes,Data Science,True,3,True,Yes,Yes,5/14,7,5,7,Right-handed,On your right side,True,2,2
+Second Year,I don't know,Economics,False,1,True,Yes,Yes,11/23,8,6,8,Right-handed,On your left side,False,5,6
+Third Year,No,Applied Math,True,5,True,Yes,Yes,6/29,9,13,7,Right-handed,On your left side,False,4,4
+Third Year,No,"Data Science, Statistics",True,4,True,Yes,Yes,6/4,7,3,7,Right-handed,On your right side,True,2,5
+Fourth Year,I don't know,Public Health,False,2,False,Yes,Yes,9/30,4,10,6,Right-handed,On your right side,False,3,5
+Fourth Year,Yes,"Environmental Science, Public Health",True,2,True,Yes,Yes,8/8,3,7,6,Right-handed,On your right side,True,2,2
+Second Year,No,Neuroscience,False,1,True,Yes,Yes,8/10,7,10,5,Right-handed,On your left side,False,2,1
+Second Year,Yes,"Data Science, Public Health",True,1,True,Yes,Yes,7/1,6,6,7,Right-handed,On your right side,True,2,3
+First Year,No,"Data Science, Economics",True,4,False,Yes,Yes,12/17,9,10,8,Right-handed,On your stomach,False,2,2
+Fourth Year,Yes,Media Studies,False,4,True,Yes,Yes,7/14,8,10,6,Right-handed,On your back,True,1,2
+First Year,No,Molecular and Environmental Biology,True,3,False,Yes,Yes,7/18,8,6,6,Right-handed,On your back,False,7,4
+Second Year,Yes,"Data Science, Political Science",True,2,True,Yes,Yes,2/28,5,4,6,Right-handed,On your back,True,6,2
+Third Year,Yes,Data Science,False,3,True,Yes,Yes,3/30,3,2,8,Right-handed,On your back,False,1,4
+Third Year,I don't know,Molecular and Cell Biology,False,3,False,Yes,Yes,2/24,3,3,7,Right-handed,On your back,False,0,2
+Third Year,Yes,"Psychology, Public Health",False,1,True,Yes,Yes,3/26,4,3,5,Right-handed,On your stomach,True,3,1
+Third Year,Yes,Public Health,False,4,False,Yes,Yes,7/1,7,5,6,Right-handed,On your stomach,True,2,3
+Fourth Year,No,English,True,2,True,Yes,No,5/23,10,11,5,Right-handed,On your left side,True,13,8
+Second Year,Yes,"Molecular and Cell Biology, Public Health",False,4,False,Yes,Yes,2/4,7,6,6,Right-handed,On your stomach,True,5,3
+First Year,No,"Data Science, Economics",True,2,True,Yes,Yes,8/22,7,15,7,Right-handed,On your back,True,0,2
+First Year,Yes,"Undecided, Civil or Mechanical Engineering",False,2,False,Yes,Yes,12/11,9,12,6,both but I use my right more often,On your right side,True,9,2
+Third Year,Yes,"Public Health, data science minor",False,1,True,Yes,Yes,5/12,9,10,8,Right-handed,On your right side,True,4,2
+Second Year,No,Chemical Biology,False,1,True,Yes,Yes,8/25,8,7,6,Right-handed,On your right side,True,14,2
+Third Year,I don't know,Statistics,True,2,True,Yes,Yes,8/28,8,8,7,Right-handed,On your right side,True,6,4
+Fourth Year,No,Molecular and Cell Biology,True,4,False,Yes,Yes,10/15,4,5,7,Right-handed,On your left side,False,1,3
+Third Year,Yes,Statistics,False,4,False,Yes,Yes,9/8,5,3,7,Left-handed,On your stomach,True,0,2
+Second Year,Yes,"Cognitive Science, Psychology",True,3,True,Yes,Yes,3/17,6,5,6,Right-handed,On your stomach,True,6,2
+Second Year,Yes,Media Studies,False,2,False,Yes,Yes,7/1,8,8,6,Right-handed,On your right side,False,4,2
+Third Year,No,Psychology,True,4,True,Maybe,No,6/23,6,3,4,Right-handed,On your back,False,1,3
+Second Year,Yes,"Business, Economics",False,3,True,Yes,Yes,6/24,7,5,6,Right-handed,On your right side,True,6,2
+Third Year,No,Molecular and Cell Biology,False,2,False,Yes,No,9/29,4,1,7,Right-handed,On your back,False,0,3
+Third Year,I don't know,Data Science,False,2,True,Yes,Yes,10/13,4,3,6,Right-handed,On your right side,False,0,3
+Third Year,I don't know,Business,False,1,True,Yes,I don't know,12/7,6,4,7.5,Right-handed,On your back,True,0,2
+Third Year,Yes,Computer Science,True,5,True,Yes,No,11/18,5,1,8,Right-handed,On your right side,True,0,6
+Third Year,No,"Computer Science, Philosophy",True,5,True,Yes,Yes,6/29,10,11,7,Right-handed,On your back,False,0,6
+Third Year,No,Cognitive Science,False,3,False,Yes,Yes,2/4,9,4,7,Right-handed,On your back,False,1,4
+Second Year,I don't know,Mathematics,True,3,False,Yes,Yes,1/14,4,3,7,Right-handed,On your back,False,0,2
+Second Year,No,Economics,False,1,False,Yes,I don't know,2/12,7,12,8.5,Right-handed,On your back,False,0,1
+Second Year,Yes,EECS,True,5,False,Yes,Yes,9/29,8,5,9,Right-handed,On your stomach,False,0,3
+Second Year,I don't know,"Business, Data Science, Undecided",True,1,True,Yes,Yes,11/17,6,6,7,Right-handed,On your back,False,2,3
+First Year,Yes,Data Science,False,3,True,Yes,Yes,7/31,3,2,7,Right-handed,On your right side,True,0,2
+Second Year,Yes,Undecided,True,2,False,Yes,Yes,2/2,9,20,7,Right-handed,On your stomach,False,0,3
+First Year,Yes,"Cognitive Science, Interdisciplinary Studies",True,3,True,Yes,Yes,1/22,7,5,8,Right-handed,On your left side,True,2,4
+Fourth Year,Yes,Public Health,False,3,False,Yes,Yes,7/16,8,3,7,Right-handed,On your stomach,False,2,1
+First Year,No,"Data Science, Statistics",True,3,True,Yes,Yes,2/10,3,7,6,Right-handed,On your left side,False,0,3
+Third Year,No,Economics,False,2,False,Yes,I don't know,2/8,8,3,8,Right-handed,On your right side,True,0,3
+Second Year,No,"Data Science, Neuroscience.",False,3,True,Yes,Yes,12/29,8,5,8,Right-handed,On your right side,False,3,3
+Fifth Year or above,No,EECS,True,5,True,Yes,No,11/16,7,5,6,Right-handed,On your right side,False,0,5
+First Year,,Applied Math,False,1,True,Yes,I don't know,8/9,6,5,7,Right-handed,On your back,False,0,2
+First Year,I don't know,"Cognitive Science, Undecided",False,1,True,Yes,Yes,9/13,5,10,6,Right-handed,On your back,False,0,3
+Third Year,Yes,"Public Health, Integrative Biology",True,3,False,Yes,Yes,11/30,3,5,6,Right-handed,On your right side,False,2,2
+Fourth Year,Yes,Cognitive Science,False,1,True,Yes,Yes,6/26,7,8,4,Left-handed,On your back,False,2,3
+Third Year,No,"Data Science, Anthropology",False,1,True,Yes,Yes,5/5,5,6,8,Right-handed,On your left side,True,5,4
+Second Year,Yes,"Psychology, Public Health",False,2,False,Yes,Yes,12/15,8,4,6,Right-handed,On your left side,False,5,2
+First Year,No,Undecided,True,3,False,Maybe,No,9/29,7,3,6,Right-handed,On your left side,False,0,3
+Fourth Year,Yes,Statistics,True,4,True,Yes,Yes,4/22,8,6,7,Right-handed,On your back,True,2,2
+Fourth Year,Yes,Psychology,True,3,True,Yes,No,4/19,7,5,8,Right-handed,On your stomach,True,2,3
+Fourth Year,No,Psychology,False,4,True,Yes,Yes,8/14,2,4,8,Right-handed,On your right side,False,2,4
+First Year,No,Civil Engineering,False,1,False,Yes,Yes,10/28,7,4,9,Right-handed,On your left side,True,0,3
+Second Year,Yes,"Molecular and Cell Biology, Public Health",False,1,True,Yes,Yes,10/27,8,8,6,Right-handed,On your left side,False,2,2
+Second Year,No,Undecided,True,3,True,Yes,Yes,11/2,9,10,7,Right-handed,On your right side,False,0,4
+Third Year,No,Computer Science,True,5,True,Yes,No,7/28,10,9,6,Left-handed,On your right side,True,2,3
+Second Year,Yes,Political Science,False,1,False,Yes,Yes,8/10,8,7,6,Right-handed,On your back,False,2,3
+First Year,Yes,"Business, Nueroscience",False,1,False,Yes,Yes,6/17,3,5,6,Left-handed,On your right side,False,2,2
+Third Year,Yes,Molecular and Cell Biology,True,5,False,Yes,No,1/30,8,4,9,Right-handed,On your stomach,True,0,5
+Second Year,Yes,Political Science,False,2,True,Yes,No,8/4,9,5,8,Right-handed,On your right side,False,2,1
+First Year,Yes,Civil Engineering,False,1,False,Yes,I don't know,12/14,8,6,7,Right-handed,On your back,False,0,4
+Third Year,No,"Economics, Media Studies",False,3,True,Maybe,Yes,8/15,6,10,6,Right-handed,On your right side,True,2,2
+Fourth Year,No,Political Science,True,2,True,Maybe,No,5/11,6,4,7,ambidextrous,On your right side,True,6,3
+First Year,No,Statistics,True,5,False,Yes,Yes,11/11,8,4,6,Right-handed,On your left side,True,0,10
+Third Year,I don't know,Applied Math,True,3,False,Yes,Yes,5/5,5,4,8,Right-handed,On your left side,False,0,2
+Third Year,Yes,EECS,True,3,False,Yes,No,11/9,3,8,7,Right-handed,On your stomach,False,0,3
+Second Year,No,Chemical Biology,False,1,True,Yes,No,12/26,8,13,6,both,On your right side,True,4,3
+Third Year,No,Public Health,False,1,True,Yes,Yes,10/24,8,5,7,Right-handed,On your back,False,2,1
+Second Year,I don't know,"Applied Math, Computer Science, Data Science",True,5,True,Yes,Yes,5/28,3,2,9,Right-handed,On your right side,False,0,5
+Third Year,Yes,"Data Science, Media Studies",True,3,True,Yes,Yes,7/3,4,2,4,Right-handed,On your back,False,0,3
+Third Year,Yes,Political Economy,False,1,False,Yes,Yes,1/27,1,1,8,Right-handed,On your right side,True,4,1
+Second Year,No,"Data Science, Economics",False,1,True,Yes,Yes,5/18,9,15,7,Right-handed,On your right side,True,2,2
+Second Year,Yes,Political Science,False,2,True,Yes,Yes,10/9,7,3,7,Right-handed,On your left side,True,2,2
+Third Year,Yes,Civil Engineering,True,3,False,Yes,Yes,4/1,5,4,7,Right-handed,On your back,True,0,3
+Third Year,I don't know,Data Science,False,2,False,Yes,Yes,7/24,4,2,8,Right-handed,On your back,False,0,1
+Second Year,No,"Economics, Molecular and Cell Biology",True,2,False,Yes,Yes,6/9,7,9,7,Right-handed,On your right side,True,1,4
+Third Year,Yes,"Computer Science, Mathematics",True,3,False,Yes,Yes,8/25,7,2,7,Right-handed,On your back,False,0,9
