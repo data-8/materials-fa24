@@ -20,10 +20,10 @@ Lab Links:
 - [Lab 03](https://data8.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-8%2Fmaterials-fa24&urlpath=tree%2Fmaterials-fa24%2Flab%2Flab03%2Flab03.ipynb)
 - [Lab 04](https://data8.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-8%2Fmaterials-fa24&urlpath=tree%2Fmaterials-fa24%2Flab%2Flab04%2Flab04.ipynb)
 - [Lab 05](https://data8.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-8%2Fmaterials-fa24&urlpath=tree%2Fmaterials-fa24%2Flab%2Flab05%2Flab05.ipynb)
-<!-- - [Lab 06](https://data8.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-8%2Fmaterials-fa24&urlpath=tree%2Fmaterials-fa24%2Flab%2Flab06%2Flab06.ipynb)
+- [Lab 06](https://data8.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-8%2Fmaterials-fa24&urlpath=tree%2Fmaterials-fa24%2Flab%2Flab06%2Flab06.ipynb)
 - [Lab 07](https://data8.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-8%2Fmaterials-fa24&urlpath=tree%2Fmaterials-fa24%2Flab%2Flab07%2Flab07.ipynb)
 - [Lab 08](https://data8.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-8%2Fmaterials-fa24&urlpath=tree%2Fmaterials-fa24%2Flab%2Flab08%2Flab08.ipynb)
-- [Lab 09](https://data8.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-8%2Fmaterials-fa24&urlpath=tree%2Fmaterials-fa24%2Flab%2Flab09%2Flab09.ipynb)
+<!-- - [Lab 09](https://data8.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-8%2Fmaterials-fa24&urlpath=tree%2Fmaterials-fa24%2Flab%2Flab09%2Flab09.ipynb)
 - [Lab 10](https://data8.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-8%2Fmaterials-fa24&urlpath=tree%2Fmaterials-fa24%2Flab%2Flab10%2Flab10.ipynb) -->
 
 Homework Links:
@@ -33,11 +33,11 @@ Homework Links:
 - [HW 03](https://data8.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-8%2Fmaterials-fa24&urlpath=tree%2Fmaterials-fa24%2Fhw%2Fhw03%2Fhw03.ipynb)
 - [HW 04](https://data8.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-8%2Fmaterials-fa24&urlpath=tree%2Fmaterials-fa24%2Fhw%2Fhw04%2Fhw04.ipynb)
 - [HW 05](https://data8.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-8%2Fmaterials-fa24&urlpath=tree%2Fmaterials-fa24%2Fhw%2Fhw05%2Fhw05.ipynb)
-<!-- - [HW 06](https://data8.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-8%2Fmaterials-fa24&urlpath=tree%2Fmaterials-fa24%2Fhw%2Fhw06%2Fhw06.ipynb)
+- [HW 06](https://data8.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-8%2Fmaterials-fa24&urlpath=tree%2Fmaterials-fa24%2Fhw%2Fhw06%2Fhw06.ipynb)
 - [HW 07](https://data8.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-8%2Fmaterials-fa24&urlpath=tree%2Fmaterials-fa24%2Fhw%2Fhw07%2Fhw07.ipynb)
 - [HW 08](https://data8.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-8%2Fmaterials-fa24&urlpath=tree%2Fmaterials-fa24%2Fhw%2Fhw08%2Fhw08.ipynb)
 - [HW 09](https://data8.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-8%2Fmaterials-fa24&urlpath=tree%2Fmaterials-fa24%2Fhw%2Fhw09%2Fhw09.ipynb)
-- [HW 10](https://data8.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-8%2Fmaterials-fa24&urlpath=tree%2Fmaterials-fa24%2Fhw%2Fhw10%2Fhw10.ipynb)
+<!-- - [HW 10](https://data8.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-8%2Fmaterials-fa24&urlpath=tree%2Fmaterials-fa24%2Fhw%2Fhw10%2Fhw10.ipynb)
 - [HW 11](https://data8.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-8%2Fmaterials-fa24&urlpath=tree%2Fmaterials-fa24%2Fhw%2Fhw11%2Fhw11.ipynb)
 - [HW 12](https://data8.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-8%2Fmaterials-fa24&urlpath=tree%2Fmaterials-fa24%2Fhw%2Fhw12%2Fhw12.ipynb) -->
 
