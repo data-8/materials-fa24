@@ -37,17 +37,17 @@ Homework Links:
 - [HW 07](https://data8.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-8%2Fmaterials-fa24&urlpath=tree%2Fmaterials-fa24%2Fhw%2Fhw07%2Fhw07.ipynb)
 - [HW 08](https://data8.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-8%2Fmaterials-fa24&urlpath=tree%2Fmaterials-fa24%2Fhw%2Fhw08%2Fhw08.ipynb)
 - [HW 09](https://data8.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-8%2Fmaterials-fa24&urlpath=tree%2Fmaterials-fa24%2Fhw%2Fhw09%2Fhw09.ipynb)
-<!-- - [HW 10](https://data8.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-8%2Fmaterials-fa24&urlpath=tree%2Fmaterials-fa24%2Fhw%2Fhw10%2Fhw10.ipynb)
+- [HW 10](https://data8.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-8%2Fmaterials-fa24&urlpath=tree%2Fmaterials-fa24%2Fhw%2Fhw10%2Fhw10.ipynb)
 - [HW 11](https://data8.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-8%2Fmaterials-fa24&urlpath=tree%2Fmaterials-fa24%2Fhw%2Fhw11%2Fhw11.ipynb)
-- [HW 12](https://data8.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-8%2Fmaterials-fa24&urlpath=tree%2Fmaterials-fa24%2Fhw%2Fhw12%2Fhw12.ipynb) -->
+- [HW 12](https://data8.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-8%2Fmaterials-fa24&urlpath=tree%2Fmaterials-fa24%2Fhw%2Fhw12%2Fhw12.ipynb)
 
 Project Links:
 
 - [Project 1](https://data8.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-8%2Fmaterials-fa24&urlpath=tree%2Fmaterials-fa24%2Fproject%2Fproject1%2Fproject1.ipynb)
-<!-- - [Project 2](https://data8.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-8%2Fmaterials-fa24&urlpath=tree%2Fmaterials-fa24%2Fproject%2Fproject2%2Fproject2.ipynb)
-- [Project 3](https://data8.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-8%2Fmaterials-fa24&urlpath=tree%2Fmaterials-fa24%2Fproject%2Fproject3%2Fproject3.ipynb) -->
+- [Project 2](https://data8.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-8%2Fmaterials-fa24&urlpath=tree%2Fmaterials-fa24%2Fproject%2Fproject2%2Fproject2.ipynb)
+- [Project 3](https://data8.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-8%2Fmaterials-fa24&urlpath=tree%2Fmaterials-fa24%2Fproject%2Fproject3%2Fproject3.ipynb)
 
-<!-- Lecture Links:
+Lecture Links:
 
 - [Lec 01](https://data8.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-8%2Fmaterials-fa24&urlpath=tree%2Fmaterials-fa24%2Flec%2Flec01%2Flec01.ipynb&branch=main)
 - Lec 02 (No demo)
@@ -56,20 +56,31 @@ Project Links:
 - [Lec 05](https://data8.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-8%2Fmaterials-fa24&urlpath=tree%2Fmaterials-fa24%2Flec%2Flec05%2Flec05.ipynb&branch=main)
 - [Lec 06](https://data8.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-8%2Fmaterials-fa24&urlpath=tree%2Fmaterials-fa24%2Flec%2Flec06%2Flec06.ipynb&branch=main)
 - [Lec 07](https://data8.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-8%2Fmaterials-fa24&urlpath=tree%2Fmaterials-fa24%2Flec%2Flec07%2Flec07.ipynb&branch=main)
-- [Lec 08](https://data8.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-8%2Fmaterials-fa24&urlpath=tree%2Fmaterials-fa24%2Flec%2Flec08%2Flec08-updated.ipynb&branch=main)
+- [Lec 08](https://data8.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-8%2Fmaterials-fa24&urlpath=tree%2Fmaterials-fa24%2Flec%2Flec08%2Flec08.ipynb&branch=main)
 - [Lec 09](https://data8.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-8%2Fmaterials-fa24&urlpath=tree%2Fmaterials-fa24%2Flec%2Flec09%2Flec09.ipynb&branch=main)
-- [Lec 10](https://data8.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-8%2Fmaterials-fa24&urlpath=tree%2Fmaterials-fa24%2Flec%2Flec10%2Flec10_modified.ipynb&branch=main)
-- [Lec 11](https://data8.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-8%2Fmaterials-fa24&urlpath=tree%2Fmaterials-fa24%2Flec%2Flec11%2Flec11_modified.ipynb&branch=main)
-- [Lec 12](https://data8.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-8%2Fmaterials-fa24&urlpath=tree%2Fmaterials-fa24%2Flec%2Flec12%2Flec12-modified.ipynb&branch=main)
-- [Lec 13](https://data8.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-8%2Fmaterials-fa24&urlpath=tree%2Fmaterials-fa24%2Flec%2Flec13%2Flec13_modified.ipynb&branch=main)
+- [Lec 10](https://data8.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-8%2Fmaterials-fa24&urlpath=tree%2Fmaterials-fa24%2Flec%2Flec10%2Flec10.ipynb&branch=main)
+- [Lec 11](https://data8.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-8%2Fmaterials-fa24&urlpath=tree%2Fmaterials-fa24%2Flec%2Flec11%2Flec11.ipynb&branch=main)
+- [Lec 12](https://data8.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-8%2Fmaterials-fa24&urlpath=tree%2Fmaterials-fa24%2Flec%2Flec12%2Flec12.ipynb&branch=main)
+- [Lec 13](https://data8.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-8%2Fmaterials-fa24&urlpath=tree%2Fmaterials-fa24%2Flec%2Flec13%2Flec13.ipynb&branch=main)
 - [Lec 14](https://data8.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-8%2Fmaterials-fa24&urlpath=tree%2Fmaterials-fa24%2Flec%2Flec14%2Flec14.ipynb)
-- [Lec 15](https://data8.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-8%2Fmaterials-fa24&urlpath=tree%2Fmaterials-fa24%2Flec%2Flec15%2Flec15_modified.ipynb)
+- [Lec 15](https://data8.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-8%2Fmaterials-fa24&urlpath=tree%2Fmaterials-fa24%2Flec%2Flec15%2Flec15.ipynb)
 - [Lec 16](https://data8.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-8%2Fmaterials-fa24&urlpath=tree%2Fmaterials-fa24%2Flec%2Flec16%2Flec16.ipynb)
 - [Lec 17](https://data8.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-8%2Fmaterials-fa24&urlpath=tree%2Fmaterials-fa24%2Flec%2Flec17%2Flec17.ipynb)
-- [Lec 18](https://data8.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-8%2Fmaterials-fa24&urlpath=tree%2Fmaterials-fa24%2Flec%2Flec18%2Flec18_modified.ipynb)
+- [Lec 18](https://data8.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-8%2Fmaterials-fa24&urlpath=tree%2Fmaterials-fa24%2Flec%2Flec18%2Flec18.ipynb)
 - [Lec 19](https://data8.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-8%2Fmaterials-fa24&urlpath=tree%2Fmaterials-fa24%2Flec%2Flec19%2Flec19.ipynb)
-- [Lec 20](https://data8.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-8%2Fmaterials-fa24&urlpath=tree%2Fmaterials-fa24%2Flec%2Flec20%2Flec20.ipynb)
-- [Lec 21](https://data8.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-8%2Fmaterials-fa24&urlpath=tree%2Fmaterials-fa24%2Flec%2Flec21%2Flec21_modified.ipynb)
-- Lec 22 (No demo)
+- Lec 20 (No Demo)
+- [Lec 21](https://data8.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-8%2Fmaterials-fa24&urlpath=tree%2Fmaterials-fa24%2Flec%2Flec21%2Flec21.ipynb)
+- [Lec 22](https://data8.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-8%2Fmaterials-fa24&urlpath=tree%2Fmaterials-fa24%2Flec%2Flec22%2Flec22.ipynb) 
 - [Lec 23](https://data8.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-8%2Fmaterials-fa24&urlpath=tree%2Fmaterials-fa24%2Flec%2Flec23%2Flec23.ipynb)
-- [Lec 24](https://data8.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-8%2Fmaterials-fa24&urlpath=tree%2Fmaterials-fa24%2Flec%2Flec24%2Flec24.ipynb) -->
+- [Lec 24](https://data8.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-8%2Fmaterials-fa24&urlpath=tree%2Fmaterials-fa24%2Flec%2Flec24%2Flec24.ipynb)
+- [Lec 25](https://data8.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-8%2Fmaterials-fa24&urlpath=tree%2Fmaterials-fa24%2Flec%2Flec25%2Flec25.ipynb)
+- [Lec 26](https://data8.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-8%2Fmaterials-fa24&urlpath=tree%2Fmaterials-fa24%2Flec%2Flec26%2Flec26.ipynb)
+- [Lec 27](https://data8.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-8%2Fmaterials-fa24&urlpath=tree%2Fmaterials-fa24%2Flec%2Flec27%2Flec27.ipynb)
+- [Lec 28](https://data8.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-8%2Fmaterials-fa24&urlpath=tree%2Fmaterials-fa24%2Flec%2Flec28%2Flec28.ipynb)
+- [Lec 29](https://data8.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-8%2Fmaterials-fa24&urlpath=tree%2Fmaterials-fa24%2Flec%2Flec29%2Flec29.ipynb)
+- [Lec 30](https://data8.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-8%2Fmaterials-fa24&urlpath=tree%2Fmaterials-fa24%2Flec%2Flec30%2Flec30.ipynb)
+- [Lec 31](https://data8.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-8%2Fmaterials-fa24&urlpath=tree%2Fmaterials-fa24%2Flec%2Flec31%2Flec31.ipynb)
+- [Lec 32](https://data8.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-8%2Fmaterials-fa24&urlpath=tree%2Fmaterials-fa24%2Flec%2Flec32%2Flec32.ipynb)
+- [Lec 33](https://data8.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-8%2Fmaterials-fa24&urlpath=tree%2Fmaterials-fa24%2Flec%2Flec33%2Flec33.ipynb)
+- [Lec 34](https://data8.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-8%2Fmaterials-fa24&urlpath=tree%2Fmaterials-fa24%2Flec%2Flec34%2Flec34.ipynb)
+
